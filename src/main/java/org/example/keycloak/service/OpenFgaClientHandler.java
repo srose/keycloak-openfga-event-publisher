@@ -1,13 +1,15 @@
-package com.twogenidentity.keycloak.service;
+package org.example.keycloak.service;
 
-import com.twogenidentity.keycloak.utils.OpenFgaHelper;
-import dev.openfga.sdk.api.client.model.ClientWriteRequest;
 import dev.openfga.sdk.api.client.OpenFgaClient;
+import dev.openfga.sdk.api.client.model.ClientReadAuthorizationModelsResponse;
+import dev.openfga.sdk.api.client.model.ClientWriteRequest;
 import dev.openfga.sdk.api.configuration.ClientConfiguration;
 import dev.openfga.sdk.api.configuration.ClientWriteOptions;
-import dev.openfga.sdk.api.model.*;
+import dev.openfga.sdk.api.model.AuthorizationModel;
+import dev.openfga.sdk.api.model.ListStoresResponse;
+import dev.openfga.sdk.api.model.ReadAuthorizationModelsResponse;
+import dev.openfga.sdk.api.model.Store;
 import dev.openfga.sdk.errors.FgaInvalidParameterException;
-import com.twogenidentity.keycloak.event.EventParser;
 import org.jboss.logging.Logger;
 import org.keycloak.Config;
 import org.keycloak.utils.StringUtil;
@@ -18,8 +20,13 @@ import java.util.concurrent.ExecutionException;
 public class OpenFgaClientHandler {
 
     protected final Config.Scope config;
+
+    public OpenFgaClient getFgaClient() {
+        return fgaClient;
+    }
+
     private final OpenFgaClient fgaClient;
-    private final OpenFgaHelper fgaHelper;
+    private final OpenFgaModel fgaHelper;
     private Boolean isClientInitialized = false;
 
     private final ClientWriteOptions clientWriteOptions;
@@ -45,24 +52,43 @@ public class OpenFgaClientHandler {
             this.isClientInitialized = true;
         };
 
-        this.fgaHelper = new OpenFgaHelper();
+        this.fgaHelper = new OpenFgaModel();
         this.clientWriteOptions = new ClientWriteOptions();
+        this.clientWriteOptions.disableTransactions(false);
         this.fgaClient = new OpenFgaClient(configuration);
+
+        if(this.isClientInitialized) {
+            ClientReadAuthorizationModelsResponse modelResponse = null;
+            try {
+                modelResponse = this.fgaClient.readAuthorizationModels().get();
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            } catch (ExecutionException e) {
+                throw new RuntimeException(e);
+            }
+            this.fgaHelper.loadModel(modelResponse.getAuthorizationModels().get(0));
+        }
     }
 
-    public void publish(String eventId , EventParser event) throws FgaInvalidParameterException, ExecutionException, InterruptedException {
-        if(!this.isClientInitialized && !this.discoverClientConfiguration()) {
-            LOG.errorf("Unable to initialized OpenFga client. Discarding  event %s, %s",  eventId, event.toString());
-        }
-        else {
-            ClientWriteRequest request  = fgaHelper.toClientWriteRequest(event);
-            if(fgaHelper.isAvailableClientRequest(request)) {
+    public void publish(String eventId , ClientWriteRequest request) {
+        try {
+            if(!this.isClientInitialized && !this.discoverClientConfiguration()) {
+                LOG.errorf("Unable to initialized OpenFga client. Discarding  event %s",  eventId);
+            } else {
                 LOG.debugf("Publishing event id %", eventId);
                 var response = fgaClient.write(request, this.clientWriteOptions).get();
                 LOG.debugf("Successfully sent tuple key to OpenFga, response: %s", response);
             }
+        } catch (FgaInvalidParameterException e) {
+            throw new RuntimeException(e);
+        } catch (ExecutionException e) {
+            throw new RuntimeException(e);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
         }
     }
+
+
 
     private boolean discoverClientConfiguration() throws FgaInvalidParameterException, ExecutionException, InterruptedException {
         LOG.info("Discover store and authorization model");
@@ -72,7 +98,7 @@ public class OpenFgaClientHandler {
            LOG.infof("Found store id: %s", store.getId());
            this.fgaClient.setStoreId(store.getId());
            ReadAuthorizationModelsResponse authorizationModels = fgaClient.readAuthorizationModels().get();
-           if(authorizationModels.getAuthorizationModels().size() > 0) {
+           if(!authorizationModels.getAuthorizationModels().isEmpty()) {
                AuthorizationModel model = authorizationModels.getAuthorizationModels().get(0);
                LOG.infof("Found authorization model id: %s", model.getId());
                this.fgaClient.setAuthorizationModelId(model.getId());

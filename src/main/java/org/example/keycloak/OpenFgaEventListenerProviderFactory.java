@@ -1,8 +1,8 @@
-package com.twogenidentity.keycloak;
+package org.example.keycloak;
 
 
 import dev.openfga.sdk.errors.FgaInvalidParameterException;
-import com.twogenidentity.keycloak.service.OpenFgaClientHandler;
+import org.example.keycloak.service.OpenFgaClientHandler;
 import org.keycloak.Config.Scope;
 import org.keycloak.events.EventListenerProvider;
 import org.keycloak.events.EventListenerProviderFactory;
@@ -12,9 +12,8 @@ import org.keycloak.models.KeycloakSessionFactory;
 public class OpenFgaEventListenerProviderFactory implements EventListenerProviderFactory {
 
 	private static final String PROVIDER_ID = "openfga-events-publisher";
-	private OpenFgaEventListenerProvider instance;
-	private Scope config;
 	private OpenFgaClientHandler client;
+	private Scope config;
 
 	@Override
 	public EventListenerProvider create(KeycloakSession session) {
@@ -24,9 +23,8 @@ public class OpenFgaEventListenerProviderFactory implements EventListenerProvide
 			} catch (FgaInvalidParameterException e) {
 				throw new RuntimeException(e);
 			}
-			instance = new OpenFgaEventListenerProvider(client, session);
 		}
-		return instance;
+		return new OpenFgaEventListenerProvider(client, session);
 	}
 
 	@Override

@@ -1,0 +1,20 @@
+{
+  "deletes":[
+    {
+      "user": "user:3228d3f0-f1d1-4022-a043-3d0e1ffa2002",
+      "relation": "assignee",
+      "_object": "role:acme-user"
+    },
+    {
+      "user": "user:3228d3f0-f1d1-4022-a043-3d0e1ffa2002",
+      "relation": "member",
+      "_object": "group:acme-user"
+    },
+    {
+      "user": "user:3228d3f0-f1d1-4022-a043-3d0e1ffa2002",
+      "relation": "member",
+      "_object": "group:acme-subregion1"
+    }
+  ],
+  "writes":[ ]
+}

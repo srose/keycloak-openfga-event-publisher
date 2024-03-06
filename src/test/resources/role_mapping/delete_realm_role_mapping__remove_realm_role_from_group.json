@@ -1,0 +1,14 @@
+{
+  "time": 1708512522583,
+  "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+  "authDetails": {
+    "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+    "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+    "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+    "ipAddress": "172.18.0.1"
+  },
+  "operationType": "DELETE",
+  "resourceType": "REALM_ROLE_MAPPING",
+  "resourcePath": "groups/b1b93baf-e0ff-4bba-a489-433c20132e4b/role-mappings/realm",
+  "representation": "[{\"id\":\"96e2f6ac-8273-404e-bd27-ec6bfc781b68\",\"name\":\"acme-user\",\"composite\":false}]"
+}

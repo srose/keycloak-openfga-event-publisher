@@ -1,1 +1,1 @@
-com.twogenidentity.keycloak.OpenFgaEventListenerProviderFactory
+org.example.keycloak.OpenFgaEventListenerProviderFactory

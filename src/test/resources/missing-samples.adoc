@@ -1,0 +1,4 @@
+delete group
+delete subgroup
+
+what happens with default roles/groups on self-registration/user creation?

@@ -1,24 +1,22 @@
-package com.twogenidentity.keycloak;
+package org.example.keycloak;
 
-import dev.openfga.sdk.errors.FgaInvalidParameterException;
-import com.twogenidentity.keycloak.event.EventParser;
-import com.twogenidentity.keycloak.service.OpenFgaClientHandler;
+import org.example.keycloak.event.AdminEventToFGAWriteTranslator;
+import org.example.keycloak.service.OpenFgaClientHandler;
+import org.example.keycloak.support.KeycloakAdapterDefault;
 import org.jboss.logging.Logger;
 import org.keycloak.events.Event;
 import org.keycloak.events.EventListenerProvider;
 import org.keycloak.events.admin.AdminEvent;
 import org.keycloak.models.KeycloakSession;
 
-import java.util.concurrent.ExecutionException;
-
 public class OpenFgaEventListenerProvider implements EventListenerProvider {
 	private static final Logger LOG = Logger.getLogger(OpenFgaEventListenerProvider.class);
 	private OpenFgaClientHandler client;
-	private KeycloakSession session;
+	private AdminEventToFGAWriteTranslator translator;
 
 	public OpenFgaEventListenerProvider(OpenFgaClientHandler client, KeycloakSession session) {
 		this.client = client;
-		this.session = session;
+		this.translator = new AdminEventToFGAWriteTranslator(new KeycloakAdapterDefault(session), client.getFgaClient());
 	}
 
 	@Override
@@ -31,16 +29,10 @@ public class OpenFgaEventListenerProvider implements EventListenerProvider {
 		LOG.debugf("Admin event received onEvent(): %s ", adminEvent.toString());
 
 		try {
-			EventParser event = new EventParser(adminEvent, session);
-			LOG.debugf("Event parsed: %s ", event.toString());
-			client.publish(adminEvent.getId(), event);
+			translator.translate(adminEvent)
+					.ifPresent(request -> client.publish(adminEvent.getId(), request));
 		} catch (IllegalArgumentException e) {
 			LOG.warn(e.getMessage());
-		}
-		catch (ExecutionException | InterruptedException e) {
-			throw new RuntimeException(e);
-		} catch (FgaInvalidParameterException e) {
-			throw new RuntimeException(e);
 		}
 	}
 

@@ -1,0 +1,14 @@
+{
+  "time": 1708511361758,
+  "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+  "authDetails": {
+    "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+    "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+    "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+    "ipAddress": "172.18.0.1"
+  },
+  "operationType": "DELETE",
+  "resourceType": "REALM_ROLE",
+  "resourcePath": "roles-by-id/47a465e8-cdd9-4563-b206-76b70596c068/composites",
+  "representation": "[{\"id\":\"be77b479-9524-4368-8849-69bfcdb06957\",\"name\":\"offline_access\",\"composite\":false}]"
+}

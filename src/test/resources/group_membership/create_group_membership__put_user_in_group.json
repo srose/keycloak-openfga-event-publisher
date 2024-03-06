@@ -1,0 +1,14 @@
+{
+  "time": 1708369550370,
+  "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+  "authDetails": {
+    "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+    "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+    "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+    "ipAddress": "172.18.0.1"
+  },
+  "operationType": "CREATE",
+  "resourceType": "GROUP_MEMBERSHIP",
+  "resourcePath": "users/23a821df-ceb8-4303-9715-d5d71ed0895b/groups/4d140d5d-15b1-4f04-bb53-c3914e53bc16",
+  "representation": "{\"id\":\"4d140d5d-15b1-4f04-bb53-c3914e53bc16\",\"name\":\"acme-subregion1\",\"path\":\"/acme-region1/acme-subregion1\",\"parentId\":\"7ea15965-b788-486f-b5ac-09d02c1f1484\",\"subGroups\":[],\"attributes\":{},\"realmRoles\":[],\"clientRoles\":{}}"
+}

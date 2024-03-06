@@ -1,0 +1,14 @@
+{
+  "time": 1708369355304,
+  "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+  "authDetails": {
+    "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+    "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+    "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+    "ipAddress": "172.18.0.6"
+  },
+  "operationType": "DELETE",
+  "resourceType": "REALM_ROLE",
+  "resourcePath": "roles/acme-tester/composites",
+  "representation": "[]"
+}

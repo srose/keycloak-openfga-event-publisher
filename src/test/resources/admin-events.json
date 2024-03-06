@@ -1,0 +1,1352 @@
+[
+  {
+    "time": 1708512641549,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "DELETE",
+    "resourceType": "GROUP",
+    "resourcePath": "groups/499b85d8-8562-4089-b7f7-e8b908745a47"
+  },
+  {
+    "time": 1708512636922,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "CREATE",
+    "resourceType": "GROUP",
+    "resourcePath": "groups/499b85d8-8562-4089-b7f7-e8b908745a47/children",
+    "representation": "{\"id\":\"cb5ebca2-2207-48b1-9204-859c0bfd580e\",\"name\":\"subgroup1\",\"subGroups\":[]}"
+  },
+  {
+    "time": 1708512615247,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "DELETE",
+    "resourceType": "REALM_ROLE",
+    "resourcePath": "roles-by-id/d66f1a8e-37b0-451a-987d-3ce0ab552c2e"
+  },
+  {
+    "time": 1708512601930,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "DELETE",
+    "resourceType": "USER",
+    "resourcePath": "users/3228d3f0-f1d1-4022-a043-3d0e1ffa2002"
+  },
+  {
+    "time": 1708512641549,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "DELETE",
+    "resourceType": "GROUP",
+    "resourcePath": "groups/499b85d8-8562-4089-b7f7-e8b908745a47"
+  },
+  {
+    "time": 1708512636922,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "CREATE",
+    "resourceType": "GROUP",
+    "resourcePath": "groups/499b85d8-8562-4089-b7f7-e8b908745a47/children",
+    "representation": "{\"id\":\"cb5ebca2-2207-48b1-9204-859c0bfd580e\",\"name\":\"subgroup1\",\"subGroups\":[]}"
+  },
+  {
+    "time": 1708512615247,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "DELETE",
+    "resourceType": "REALM_ROLE",
+    "resourcePath": "roles-by-id/d66f1a8e-37b0-451a-987d-3ce0ab552c2e"
+  },
+  {
+    "time": 1708512601930,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "DELETE",
+    "resourceType": "USER",
+    "resourcePath": "users/3228d3f0-f1d1-4022-a043-3d0e1ffa2002"
+  },
+  {
+    "time": 1708511361758,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "DELETE",
+    "resourceType": "REALM_ROLE",
+    "resourcePath": "roles-by-id/47a465e8-cdd9-4563-b206-76b70596c068/composites",
+    "representation": "[{\"id\":\"be77b479-9524-4368-8849-69bfcdb06957\",\"name\":\"offline_access\",\"composite\":false}]"
+  },
+  {
+    "time": 1708511086474,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "CREATE",
+    "resourceType": "REALM_ROLE",
+    "resourcePath": "roles-by-id/47a465e8-cdd9-4563-b206-76b70596c068/composites",
+    "representation": "[{\"id\":\"be77b479-9524-4368-8849-69bfcdb06957\",\"name\":\"offline_access\",\"description\":\"${role_offline-access}\",\"composite\":false,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"}]"
+  },
+  3,
+  {
+    "time": 1708510684176,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "CREATE",
+    "resourceType": "GROUP_MEMBERSHIP",
+    "resourcePath": "users/3228d3f0-f1d1-4022-a043-3d0e1ffa2002/groups/53fd361b-7256-46e8-a32c-058e0a2f48c6",
+    "representation": "{\"id\":\"53fd361b-7256-46e8-a32c-058e0a2f48c6\",\"name\":\"acme-subregion3\",\"path\":\"/acme-region1/acme-subregion3\",\"parentId\":\"7ea15965-b788-486f-b5ac-09d02c1f1484\",\"subGroups\":[],\"attributes\":{},\"realmRoles\":[],\"clientRoles\":{}}"
+  },
+  {
+    "time": 1708510666705,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "CREATE",
+    "resourceType": "GROUP_MEMBERSHIP",
+    "resourcePath": "users/3228d3f0-f1d1-4022-a043-3d0e1ffa2002/groups/7ea15965-b788-486f-b5ac-09d02c1f1484",
+    "representation": "{\"id\":\"7ea15965-b788-486f-b5ac-09d02c1f1484\",\"name\":\"acme-region1\",\"path\":\"/acme-region1\",\"subGroups\":[],\"attributes\":{},\"realmRoles\":[],\"clientRoles\":{}}"
+  },
+  {
+    "time": 1708510654150,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "DELETE",
+    "resourceType": "REALM_ROLE_MAPPING",
+    "resourcePath": "users/3228d3f0-f1d1-4022-a043-3d0e1ffa2002/role-mappings/realm",
+    "representation": "[{\"id\":\"96e2f6ac-8273-404e-bd27-ec6bfc781b68\",\"name\":\"acme-user\",\"composite\":false}]"
+  },
+  {
+    "time": 1708510644739,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "CREATE",
+    "resourceType": "REALM_ROLE_MAPPING",
+    "resourcePath": "users/3228d3f0-f1d1-4022-a043-3d0e1ffa2002/role-mappings/realm",
+    "representation": "[{\"id\":\"47a465e8-cdd9-4563-b206-76b70596c068\",\"name\":\"acme-user-support\",\"description\":\"Acme User Support Role\",\"composite\":false,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"}]"
+  },
+  {
+    "time": 1708376076537,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "DELETE",
+    "resourceType": "REALM_ROLE_MAPPING",
+    "resourcePath": "groups/b1b93baf-e0ff-4bba-a489-433c20132e4b/role-mappings/realm",
+    "representation": "[{\"id\":\"96e2f6ac-8273-404e-bd27-ec6bfc781b68\",\"name\":\"acme-user\",\"composite\":false}]"
+  },
+  {
+    "time": 1708375970889,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "CREATE",
+    "resourceType": "GROUP_MEMBERSHIP",
+    "resourcePath": "users/23a821df-ceb8-4303-9715-d5d71ed0895b/groups/b1b93baf-e0ff-4bba-a489-433c20132e4b",
+    "representation": "{\"id\":\"b1b93baf-e0ff-4bba-a489-433c20132e4b\",\"name\":\"acme-user\",\"path\":\"/acme-user\",\"subGroups\":[],\"attributes\":{},\"realmRoles\":[\"acme-user\"],\"clientRoles\":{}}"
+  },
+  {
+    "time": 1708375964535,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "DELETE",
+    "resourceType": "REALM_ROLE_MAPPING",
+    "resourcePath": "users/23a821df-ceb8-4303-9715-d5d71ed0895b/role-mappings/realm",
+    "representation": "[{\"id\":\"96e2f6ac-8273-404e-bd27-ec6bfc781b68\",\"name\":\"acme-user\",\"composite\":false}]"
+  },
+  {
+    "time": 1708375626127,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "CREATE",
+    "resourceType": "GROUP",
+    "resourcePath": "groups/499b85d8-8562-4089-b7f7-e8b908745a47",
+    "representation": "{\"id\":\"499b85d8-8562-4089-b7f7-e8b908745a47\",\"name\":\"acme-region2\",\"subGroups\":[]}"
+  },
+  {
+    "time": 1708375550860,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "CREATE",
+    "resourceType": "GROUP",
+    "resourcePath": "groups/7ea15965-b788-486f-b5ac-09d02c1f1484/children",
+    "representation": "{\"id\":\"53fd361b-7256-46e8-a32c-058e0a2f48c6\",\"name\":\"acme-subregion3\",\"subGroups\":[]}"
+  },
+  {
+    "time": 1708369570658,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "CREATE",
+    "resourceType": "GROUP_MEMBERSHIP",
+    "resourcePath": "users/f03715f1-e476-478b-827d-a4b9cbb34dcb/groups/b665b4d6-add7-4e3e-b0a5-59cbfe78cf0b",
+    "representation": "{\"id\":\"b665b4d6-add7-4e3e-b0a5-59cbfe78cf0b\",\"name\":\"acme-subregion2\",\"path\":\"/acme-region1/acme-subregion2\",\"parentId\":\"7ea15965-b788-486f-b5ac-09d02c1f1484\",\"subGroups\":[],\"attributes\":{},\"realmRoles\":[],\"clientRoles\":{}}"
+  },
+  {
+    "time": 1708369550370,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "a28b8948-4d39-48b7-ab75-c0820bb50ea8",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.1"
+    },
+    "operationType": "CREATE",
+    "resourceType": "GROUP_MEMBERSHIP",
+    "resourcePath": "users/23a821df-ceb8-4303-9715-d5d71ed0895b/groups/4d140d5d-15b1-4f04-bb53-c3914e53bc16",
+    "representation": "{\"id\":\"4d140d5d-15b1-4f04-bb53-c3914e53bc16\",\"name\":\"acme-subregion1\",\"path\":\"/acme-region1/acme-subregion1\",\"parentId\":\"7ea15965-b788-486f-b5ac-09d02c1f1484\",\"subGroups\":[],\"attributes\":{},\"realmRoles\":[],\"clientRoles\":{}}"
+  },
+  {
+    "time": 1708369371004,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"id\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"realm\":\"acme-demo\",\"displayName\":\"Acme Demo\",\"displayNameHtml\":\"Acme Demo\",\"notBefore\":0,\"defaultSignatureAlgorithm\":\"RS256\",\"revokeRefreshToken\":false,\"refreshTokenMaxReuse\":0,\"accessTokenLifespan\":300,\"accessTokenLifespanForImplicitFlow\":900,\"ssoSessionIdleTimeout\":1800,\"ssoSessionMaxLifespan\":36000,\"ssoSessionIdleTimeoutRememberMe\":0,\"ssoSessionMaxLifespanRememberMe\":0,\"offlineSessionIdleTimeout\":2592000,\"offlineSessionMaxLifespanEnabled\":false,\"offlineSessionMaxLifespan\":5184000,\"clientSessionIdleTimeout\":0,\"clientSessionMaxLifespan\":0,\"clientOfflineSessionIdleTimeout\":0,\"clientOfflineSessionMaxLifespan\":0,\"accessCodeLifespan\":60,\"accessCodeLifespanUserAction\":300,\"accessCodeLifespanLogin\":1800,\"actionTokenGeneratedByAdminLifespan\":43200,\"actionTokenGeneratedByUserLifespan\":300,\"oauth2DeviceCodeLifespan\":600,\"oauth2DevicePollingInterval\":5,\"enabled\":true,\"sslRequired\":\"external\",\"registrationAllowed\":false,\"registrationEmailAsUsername\":false,\"rememberMe\":false,\"verifyEmail\":false,\"loginWithEmailAllowed\":true,\"duplicateEmailsAllowed\":false,\"resetPasswordAllowed\":true,\"editUsernameAllowed\":false,\"bruteForceProtected\":false,\"permanentLockout\":false,\"maxFailureWaitSeconds\":900,\"minimumQuickLoginWaitSeconds\":60,\"waitIncrementSeconds\":60,\"quickLoginCheckMilliSeconds\":1000,\"maxDeltaTimeSeconds\":43200,\"failureFactor\":30,\"defaultRole\":{\"id\":\"4decc226-d0d9-4cc9-88e3-2bb6c9b5be77\",\"name\":\"default-roles-acme-demo\",\"description\":\"${role_default-roles}\",\"composite\":true,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"},\"requiredCredentials\":[\"password\"],\"otpPolicyType\":\"totp\",\"otpPolicyAlgorithm\":\"HmacSHA1\",\"otpPolicyInitialCounter\":0,\"otpPolicyDigits\":6,\"otpPolicyLookAheadWindow\":1,\"otpPolicyPeriod\":30,\"otpPolicyCodeReusable\":false,\"otpSupportedApplications\":[\"totpAppFreeOTPName\",\"totpAppGoogleName\",\"totpAppMicrosoftAuthenticatorName\"],\"webAuthnPolicyRpEntityName\":\"keycloak\",\"webAuthnPolicySignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyRpId\":\"\",\"webAuthnPolicyAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyRequireResidentKey\":\"not specified\",\"webAuthnPolicyUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyCreateTimeout\":0,\"webAuthnPolicyAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyAcceptableAaguids\":[],\"webAuthnPolicyExtraOrigins\":[],\"webAuthnPolicyPasswordlessRpEntityName\":\"keycloak\",\"webAuthnPolicyPasswordlessSignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyPasswordlessRpId\":\"\",\"webAuthnPolicyPasswordlessAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyPasswordlessAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyPasswordlessRequireResidentKey\":\"not specified\",\"webAuthnPolicyPasswordlessUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyPasswordlessCreateTimeout\":0,\"webAuthnPolicyPasswordlessAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyPasswordlessAcceptableAaguids\":[],\"webAuthnPolicyPasswordlessExtraOrigins\":[],\"browserSecurityHeaders\":{\"contentSecurityPolicyReportOnly\":\"\",\"xContentTypeOptions\":\"nosniff\",\"referrerPolicy\":\"no-referrer\",\"xRobotsTag\":\"none\",\"xFrameOptions\":\"SAMEORIGIN\",\"contentSecurityPolicy\":\"frame-src 'self'; frame-ancestors 'self'; object-src 'none';\",\"xXSSProtection\":\"1; mode=block\",\"strictTransportSecurity\":\"max-age=31536000; includeSubDomains\"},\"smtpServer\":{\"replyToDisplayName\":\"Acme Employee Support\",\"port\":\"1025\",\"host\":\"mail\",\"replyTo\":\"no-reply@acme.test\",\"from\":\"acme-internal-sso@acme.test\",\"fromDisplayName\":\"Acme Employee Account\"},\"eventsEnabled\":true,\"eventsExpiration\":10368000,\"eventsListeners\":[\"openfga-events-publisher\",\"jboss-logging\"],\"enabledEventTypes\":[],\"adminEventsEnabled\":true,\"adminEventsDetailsEnabled\":true,\"identityProviders\":[],\"identityProviderMappers\":[],\"internationalizationEnabled\":false,\"supportedLocales\":[],\"browserFlow\":\"browser\",\"registrationFlow\":\"registration\",\"directGrantFlow\":\"direct grant\",\"resetCredentialsFlow\":\"reset credentials\",\"clientAuthenticationFlow\":\"clients\",\"dockerAuthenticationFlow\":\"docker auth\",\"attributes\":{\"cibaBackchannelTokenDeliveryMode\":\"poll\",\"cibaAuthRequestedUserHint\":\"login_hint\",\"oauth2DevicePollingInterval\":\"5\",\"clientOfflineSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.import-checksum-default\":\"cab6d6d732fd2605231cac604189e23c3e8b5f22c6eb450c5a5a706bd9b26b8d\",\"clientSessionIdleTimeout\":\"0\",\"clientOfflineSessionIdleTimeout\":\"0\",\"de.adorsys.keycloak.config.state-default-roles-realm-0\":\"[\\\"acme-user\\\",\\\"acme-user-support\\\",\\\"acme-tester\\\",\\\"acme-admin\\\"]\",\"cibaInterval\":\"5\",\"realmReusableOtpCode\":\"false\",\"cibaExpiresIn\":\"120\",\"oauth2DeviceCodeLifespan\":\"600\",\"parRequestUriLifespan\":\"60\",\"clientSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.state-default-clients-0\":\"[\\\"acme-standard-client\\\",\\\"acme-public-client-1\\\",\\\"acme-implicit-client\\\",\\\"acme-direct-access-client\\\",\\\"acme-service-client\\\",\\\"acme-device-client\\\"]\"},\"userManagedAccessAllowed\":false,\"clientProfiles\":{\"profiles\":[]},\"clientPolicies\":{\"policies\":[]}}"
+  },
+  {
+    "time": 1708369370970,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"id\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"realm\":\"acme-demo\",\"displayName\":\"Acme Demo\",\"displayNameHtml\":\"Acme Demo\",\"notBefore\":0,\"defaultSignatureAlgorithm\":\"RS256\",\"revokeRefreshToken\":false,\"refreshTokenMaxReuse\":0,\"accessTokenLifespan\":300,\"accessTokenLifespanForImplicitFlow\":900,\"ssoSessionIdleTimeout\":1800,\"ssoSessionMaxLifespan\":36000,\"ssoSessionIdleTimeoutRememberMe\":0,\"ssoSessionMaxLifespanRememberMe\":0,\"offlineSessionIdleTimeout\":2592000,\"offlineSessionMaxLifespanEnabled\":false,\"offlineSessionMaxLifespan\":5184000,\"clientSessionIdleTimeout\":0,\"clientSessionMaxLifespan\":0,\"clientOfflineSessionIdleTimeout\":0,\"clientOfflineSessionMaxLifespan\":0,\"accessCodeLifespan\":60,\"accessCodeLifespanUserAction\":300,\"accessCodeLifespanLogin\":1800,\"actionTokenGeneratedByAdminLifespan\":43200,\"actionTokenGeneratedByUserLifespan\":300,\"oauth2DeviceCodeLifespan\":600,\"oauth2DevicePollingInterval\":5,\"enabled\":true,\"sslRequired\":\"external\",\"registrationAllowed\":false,\"registrationEmailAsUsername\":false,\"rememberMe\":false,\"verifyEmail\":false,\"loginWithEmailAllowed\":true,\"duplicateEmailsAllowed\":false,\"resetPasswordAllowed\":true,\"editUsernameAllowed\":false,\"bruteForceProtected\":false,\"permanentLockout\":false,\"maxFailureWaitSeconds\":900,\"minimumQuickLoginWaitSeconds\":60,\"waitIncrementSeconds\":60,\"quickLoginCheckMilliSeconds\":1000,\"maxDeltaTimeSeconds\":43200,\"failureFactor\":30,\"defaultRole\":{\"id\":\"4decc226-d0d9-4cc9-88e3-2bb6c9b5be77\",\"name\":\"default-roles-acme-demo\",\"description\":\"${role_default-roles}\",\"composite\":true,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"},\"requiredCredentials\":[\"password\"],\"otpPolicyType\":\"totp\",\"otpPolicyAlgorithm\":\"HmacSHA1\",\"otpPolicyInitialCounter\":0,\"otpPolicyDigits\":6,\"otpPolicyLookAheadWindow\":1,\"otpPolicyPeriod\":30,\"otpPolicyCodeReusable\":false,\"otpSupportedApplications\":[\"totpAppFreeOTPName\",\"totpAppGoogleName\",\"totpAppMicrosoftAuthenticatorName\"],\"webAuthnPolicyRpEntityName\":\"keycloak\",\"webAuthnPolicySignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyRpId\":\"\",\"webAuthnPolicyAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyRequireResidentKey\":\"not specified\",\"webAuthnPolicyUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyCreateTimeout\":0,\"webAuthnPolicyAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyAcceptableAaguids\":[],\"webAuthnPolicyExtraOrigins\":[],\"webAuthnPolicyPasswordlessRpEntityName\":\"keycloak\",\"webAuthnPolicyPasswordlessSignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyPasswordlessRpId\":\"\",\"webAuthnPolicyPasswordlessAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyPasswordlessAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyPasswordlessRequireResidentKey\":\"not specified\",\"webAuthnPolicyPasswordlessUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyPasswordlessCreateTimeout\":0,\"webAuthnPolicyPasswordlessAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyPasswordlessAcceptableAaguids\":[],\"webAuthnPolicyPasswordlessExtraOrigins\":[],\"browserSecurityHeaders\":{\"contentSecurityPolicyReportOnly\":\"\",\"xContentTypeOptions\":\"nosniff\",\"referrerPolicy\":\"no-referrer\",\"xRobotsTag\":\"none\",\"xFrameOptions\":\"SAMEORIGIN\",\"contentSecurityPolicy\":\"frame-src 'self'; frame-ancestors 'self'; object-src 'none';\",\"xXSSProtection\":\"1; mode=block\",\"strictTransportSecurity\":\"max-age=31536000; includeSubDomains\"},\"smtpServer\":{\"replyToDisplayName\":\"Acme Employee Support\",\"port\":\"1025\",\"host\":\"mail\",\"replyTo\":\"no-reply@acme.test\",\"from\":\"acme-internal-sso@acme.test\",\"fromDisplayName\":\"Acme Employee Account\"},\"eventsEnabled\":true,\"eventsExpiration\":10368000,\"eventsListeners\":[\"openfga-events-publisher\",\"jboss-logging\"],\"enabledEventTypes\":[],\"adminEventsEnabled\":true,\"adminEventsDetailsEnabled\":true,\"identityProviders\":[],\"identityProviderMappers\":[],\"internationalizationEnabled\":false,\"supportedLocales\":[],\"browserFlow\":\"browser\",\"registrationFlow\":\"registration\",\"directGrantFlow\":\"direct grant\",\"resetCredentialsFlow\":\"reset credentials\",\"clientAuthenticationFlow\":\"clients\",\"dockerAuthenticationFlow\":\"docker auth\",\"attributes\":{\"cibaBackchannelTokenDeliveryMode\":\"poll\",\"cibaAuthRequestedUserHint\":\"login_hint\",\"oauth2DevicePollingInterval\":\"5\",\"clientOfflineSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.import-checksum-default\":\"f631cd19beaa84dda233a549078452a8b302f53c0cf41a2d6ecf8eab18973857\",\"clientSessionIdleTimeout\":\"0\",\"clientOfflineSessionIdleTimeout\":\"0\",\"de.adorsys.keycloak.config.state-default-roles-realm-0\":\"[\\\"acme-user\\\",\\\"acme-user-support\\\",\\\"acme-tester\\\",\\\"acme-admin\\\"]\",\"cibaInterval\":\"5\",\"realmReusableOtpCode\":\"false\",\"cibaExpiresIn\":\"120\",\"oauth2DeviceCodeLifespan\":\"600\",\"parRequestUriLifespan\":\"60\",\"clientSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.state-default-clients-0\":\"[\\\"acme-standard-client\\\",\\\"acme-public-client-1\\\",\\\"acme-implicit-client\\\",\\\"acme-direct-access-client\\\",\\\"acme-service-client\\\",\\\"acme-device-client\\\"]\"},\"userManagedAccessAllowed\":false,\"clientProfiles\":{\"profiles\":[]},\"clientPolicies\":{\"policies\":[]}}"
+  },
+  {
+    "time": 1708369370937,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-device-client",
+    "representation": "{\"id\":\"acme-device-client\",\"clientId\":\"acme-device-client\",\"name\":\"Client with Device Flow Grant\",\"description\":\"Device Flow Grant Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"redirectUris\":[],\"webOrigins\":[],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":false,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"authorizationServicesEnabled\":false,\"publicClient\":true,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"oauth2.device.authorization.grant.enabled\":\"true\",\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\",\"use.refresh.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369370914,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-service-client-1",
+    "representation": "{\"id\":\"acme-service-client-1\",\"clientId\":\"acme-service-client\",\"name\":\"Standard Client with Client Credentials Grant\",\"description\":\"Service Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"secret\":\"acme-service-client-1-secret\",\"redirectUris\":[],\"webOrigins\":[],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":false,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":true,\"publicClient\":false,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"protocolMappers\":[{\"id\":\"3f8361ef-d2db-4658-8018-bcf15e5629fe\",\"name\":\"Client Host\",\"protocol\":\"openid-connect\",\"protocolMapper\":\"oidc-usersessionmodel-note-mapper\",\"consentRequired\":false,\"config\":{\"user.session.note\":\"clientHost\",\"introspection.token.claim\":\"true\",\"id.token.claim\":\"true\",\"access.token.claim\":\"true\",\"claim.name\":\"clientHost\",\"jsonType.label\":\"String\"}},{\"id\":\"ae9fc48f-77ee-49e7-af3e-fc456b1496fe\",\"name\":\"Client ID\",\"protocol\":\"openid-connect\",\"protocolMapper\":\"oidc-usersessionmodel-note-mapper\",\"consentRequired\":false,\"config\":{\"user.session.note\":\"client_id\",\"introspection.token.claim\":\"true\",\"id.token.claim\":\"true\",\"access.token.claim\":\"true\",\"claim.name\":\"client_id\",\"jsonType.label\":\"String\"}},{\"id\":\"de4889b8-7c3d-429d-a7d9-3c717d1f2704\",\"name\":\"Client IP Address\",\"protocol\":\"openid-connect\",\"protocolMapper\":\"oidc-usersessionmodel-note-mapper\",\"consentRequired\":false,\"config\":{\"user.session.note\":\"clientAddress\",\"introspection.token.claim\":\"true\",\"id.token.claim\":\"true\",\"access.token.claim\":\"true\",\"claim.name\":\"clientAddress\",\"jsonType.label\":\"String\"}}],\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369370898,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-direct-access-client-1",
+    "representation": "{\"id\":\"acme-direct-access-client-1\",\"clientId\":\"acme-direct-access-client\",\"name\":\"Standard Client with ROPC Grant\",\"description\":\"Direct Access Grant Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"secret\":\"acme-direct-access-client-1-secret\",\"redirectUris\":[\"http://localhost/acme-direct-access-client-1/login*\",\"https://flowsimulator.pragmaticwebsecurity.com/*\"],\"webOrigins\":[\"https://flowsimulator.pragmaticwebsecurity.com\",\"http://localhost\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":false,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":true,\"serviceAccountsEnabled\":false,\"publicClient\":false,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369370880,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-implicit-client-1",
+    "representation": "{\"id\":\"acme-implicit-client-1\",\"clientId\":\"acme-implicit-client\",\"name\":\"Client with Implicit Grant\",\"description\":\"Implicit Client Description v2\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"redirectUris\":[\"http://localhost/acme-implcit-client/oauth/callback\"],\"webOrigins\":[\"http://localhost\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":true,\"implicitFlowEnabled\":true,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"authorizationServicesEnabled\":false,\"publicClient\":true,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369370867,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-public-client-1",
+    "representation": "{\"id\":\"acme-public-client-1\",\"clientId\":\"acme-public-client-1\",\"name\":\"Client with Standard Flow\",\"description\":\"Public Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"redirectUris\":[\"https://flowsimulator.pragmaticwebsecurity.com\",\"http://localhost/acme-public-client/login*\"],\"webOrigins\":[\"+\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":true,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"authorizationServicesEnabled\":false,\"publicClient\":true,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"post.logout.redirect.uris\":\"+\",\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369370849,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-standard-client-1",
+    "representation": "{\"id\":\"acme-standard-client-1\",\"clientId\":\"acme-standard-client\",\"name\":\"Client with Standard Flow\",\"description\":\"Standard Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"secret\":\"acme-standard-client-1-secret\",\"redirectUris\":[\"http://localhost/acme-standard-client/login*\",\"https://flowsimulator.pragmaticwebsecurity.com\"],\"webOrigins\":[\"+\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":true,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"publicClient\":false,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"post.logout.redirect.uris\":\"+\",\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369370770,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-device-client",
+    "representation": "{\"id\":\"acme-device-client\",\"clientId\":\"acme-device-client\",\"name\":\"Client with Device Flow Grant\",\"description\":\"Device Flow Grant Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"redirectUris\":[],\"webOrigins\":[],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":false,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"authorizationServicesEnabled\":false,\"publicClient\":true,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"use.refresh.tokens\":\"false\",\"oauth2.device.authorization.grant.enabled\":\"true\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369370710,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-public-client-1",
+    "representation": "{\"id\":\"acme-public-client-1\",\"clientId\":\"acme-public-client-1\",\"name\":\"Client with Standard Flow\",\"description\":\"Public Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"redirectUris\":[\"http://localhost/acme-public-client/login*\",\"https://flowsimulator.pragmaticwebsecurity.com\"],\"webOrigins\":[\"+\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":true,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"authorizationServicesEnabled\":false,\"publicClient\":true,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"post.logout.redirect.uris\":\"+\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369370688,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-standard-client-1",
+    "representation": "{\"id\":\"acme-standard-client-1\",\"clientId\":\"acme-standard-client\",\"name\":\"Client with Standard Flow\",\"description\":\"Standard Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"secret\":\"acme-standard-client-1-secret\",\"redirectUris\":[\"http://localhost/acme-standard-client/login*\",\"https://flowsimulator.pragmaticwebsecurity.com\"],\"webOrigins\":[\"+\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":true,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"publicClient\":false,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"post.logout.redirect.uris\":\"+\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369370594,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"realm\":\"acme-demo\",\"displayName\":\"Acme Demo\",\"displayNameHtml\":\"Acme Demo\",\"enabled\":true,\"sslRequired\":\"EXTERNAL\",\"loginWithEmailAllowed\":true,\"resetPasswordAllowed\":true,\"smtpServer\":{\"replyToDisplayName\":\"Acme Employee Support\",\"port\":\"1025\",\"host\":\"mail\",\"replyTo\":\"no-reply@acme.test\",\"from\":\"acme-internal-sso@acme.test\",\"fromDisplayName\":\"Acme Employee Account\"},\"eventsEnabled\":true,\"eventsExpiration\":10368000,\"eventsListeners\":[\"jboss-logging\",\"openfga-events-publisher\"],\"adminEventsEnabled\":true,\"adminEventsDetailsEnabled\":true,\"clientProfiles\":null,\"clientPolicies\":null}"
+  },
+  {
+    "time": 1708369370530,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"id\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"realm\":\"acme-demo\",\"displayName\":\"Acme Demo\",\"displayNameHtml\":\"Acme Demo\",\"notBefore\":0,\"defaultSignatureAlgorithm\":\"RS256\",\"revokeRefreshToken\":false,\"refreshTokenMaxReuse\":0,\"accessTokenLifespan\":300,\"accessTokenLifespanForImplicitFlow\":900,\"ssoSessionIdleTimeout\":1800,\"ssoSessionMaxLifespan\":36000,\"ssoSessionIdleTimeoutRememberMe\":0,\"ssoSessionMaxLifespanRememberMe\":0,\"offlineSessionIdleTimeout\":2592000,\"offlineSessionMaxLifespanEnabled\":false,\"offlineSessionMaxLifespan\":5184000,\"clientSessionIdleTimeout\":0,\"clientSessionMaxLifespan\":0,\"clientOfflineSessionIdleTimeout\":0,\"clientOfflineSessionMaxLifespan\":0,\"accessCodeLifespan\":60,\"accessCodeLifespanUserAction\":300,\"accessCodeLifespanLogin\":1800,\"actionTokenGeneratedByAdminLifespan\":43200,\"actionTokenGeneratedByUserLifespan\":300,\"oauth2DeviceCodeLifespan\":600,\"oauth2DevicePollingInterval\":5,\"enabled\":true,\"sslRequired\":\"external\",\"registrationAllowed\":false,\"registrationEmailAsUsername\":false,\"rememberMe\":false,\"verifyEmail\":false,\"loginWithEmailAllowed\":true,\"duplicateEmailsAllowed\":false,\"resetPasswordAllowed\":true,\"editUsernameAllowed\":false,\"bruteForceProtected\":false,\"permanentLockout\":false,\"maxFailureWaitSeconds\":900,\"minimumQuickLoginWaitSeconds\":60,\"waitIncrementSeconds\":60,\"quickLoginCheckMilliSeconds\":1000,\"maxDeltaTimeSeconds\":43200,\"failureFactor\":30,\"defaultRole\":{\"id\":\"4decc226-d0d9-4cc9-88e3-2bb6c9b5be77\",\"name\":\"default-roles-acme-demo\",\"description\":\"${role_default-roles}\",\"composite\":true,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"},\"requiredCredentials\":[\"password\"],\"otpPolicyType\":\"totp\",\"otpPolicyAlgorithm\":\"HmacSHA1\",\"otpPolicyInitialCounter\":0,\"otpPolicyDigits\":6,\"otpPolicyLookAheadWindow\":1,\"otpPolicyPeriod\":30,\"otpPolicyCodeReusable\":false,\"otpSupportedApplications\":[\"totpAppFreeOTPName\",\"totpAppGoogleName\",\"totpAppMicrosoftAuthenticatorName\"],\"webAuthnPolicyRpEntityName\":\"keycloak\",\"webAuthnPolicySignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyRpId\":\"\",\"webAuthnPolicyAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyRequireResidentKey\":\"not specified\",\"webAuthnPolicyUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyCreateTimeout\":0,\"webAuthnPolicyAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyAcceptableAaguids\":[],\"webAuthnPolicyExtraOrigins\":[],\"webAuthnPolicyPasswordlessRpEntityName\":\"keycloak\",\"webAuthnPolicyPasswordlessSignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyPasswordlessRpId\":\"\",\"webAuthnPolicyPasswordlessAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyPasswordlessAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyPasswordlessRequireResidentKey\":\"not specified\",\"webAuthnPolicyPasswordlessUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyPasswordlessCreateTimeout\":0,\"webAuthnPolicyPasswordlessAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyPasswordlessAcceptableAaguids\":[],\"webAuthnPolicyPasswordlessExtraOrigins\":[],\"browserSecurityHeaders\":{\"contentSecurityPolicyReportOnly\":\"\",\"xContentTypeOptions\":\"nosniff\",\"referrerPolicy\":\"no-referrer\",\"xRobotsTag\":\"none\",\"xFrameOptions\":\"SAMEORIGIN\",\"contentSecurityPolicy\":\"frame-src 'self'; frame-ancestors 'self'; object-src 'none';\",\"xXSSProtection\":\"1; mode=block\",\"strictTransportSecurity\":\"max-age=31536000; includeSubDomains\"},\"smtpServer\":{\"replyToDisplayName\":\"Acme Employee Support\",\"port\":\"1025\",\"host\":\"mail\",\"replyTo\":\"no-reply@acme.test\",\"from\":\"acme-internal-sso@acme.test\",\"fromDisplayName\":\"Acme Employee Account\"},\"eventsEnabled\":true,\"eventsExpiration\":0,\"eventsListeners\":[\"openfga-events-publisher\",\"jboss-logging\"],\"enabledEventTypes\":[],\"adminEventsEnabled\":true,\"adminEventsDetailsEnabled\":true,\"identityProviders\":[],\"identityProviderMappers\":[],\"internationalizationEnabled\":false,\"supportedLocales\":[],\"browserFlow\":\"browser\",\"registrationFlow\":\"registration\",\"directGrantFlow\":\"direct grant\",\"resetCredentialsFlow\":\"reset credentials\",\"clientAuthenticationFlow\":\"clients\",\"dockerAuthenticationFlow\":\"docker auth\",\"attributes\":{\"cibaBackchannelTokenDeliveryMode\":\"poll\",\"cibaAuthRequestedUserHint\":\"login_hint\",\"oauth2DevicePollingInterval\":\"5\",\"clientOfflineSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.import-checksum-default\":\"f631cd19beaa84dda233a549078452a8b302f53c0cf41a2d6ecf8eab18973857\",\"clientSessionIdleTimeout\":\"0\",\"clientOfflineSessionIdleTimeout\":\"0\",\"de.adorsys.keycloak.config.state-default-roles-realm-0\":\"[\\\"acme-user\\\",\\\"acme-user-support\\\",\\\"acme-tester\\\",\\\"acme-admin\\\"]\",\"cibaInterval\":\"5\",\"realmReusableOtpCode\":\"false\",\"cibaExpiresIn\":\"120\",\"oauth2DeviceCodeLifespan\":\"600\",\"parRequestUriLifespan\":\"60\",\"clientSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.state-default-clients-0\":\"[\\\"acme-standard-client\\\",\\\"acme-public-client-1\\\",\\\"acme-implicit-client\\\",\\\"acme-direct-access-client\\\",\\\"acme-service-client\\\",\\\"acme-device-client\\\"]\"},\"userManagedAccessAllowed\":false,\"clientProfiles\":{\"profiles\":[]},\"clientPolicies\":{\"policies\":[]}}"
+  },
+  {
+    "time": 1708369370490,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"id\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"realm\":\"acme-demo\",\"displayName\":\"Acme Demo\",\"displayNameHtml\":\"Acme Demo\",\"notBefore\":0,\"defaultSignatureAlgorithm\":\"RS256\",\"revokeRefreshToken\":false,\"refreshTokenMaxReuse\":0,\"accessTokenLifespan\":300,\"accessTokenLifespanForImplicitFlow\":900,\"ssoSessionIdleTimeout\":1800,\"ssoSessionMaxLifespan\":36000,\"ssoSessionIdleTimeoutRememberMe\":0,\"ssoSessionMaxLifespanRememberMe\":0,\"offlineSessionIdleTimeout\":2592000,\"offlineSessionMaxLifespanEnabled\":false,\"offlineSessionMaxLifespan\":5184000,\"clientSessionIdleTimeout\":0,\"clientSessionMaxLifespan\":0,\"clientOfflineSessionIdleTimeout\":0,\"clientOfflineSessionMaxLifespan\":0,\"accessCodeLifespan\":60,\"accessCodeLifespanUserAction\":300,\"accessCodeLifespanLogin\":1800,\"actionTokenGeneratedByAdminLifespan\":43200,\"actionTokenGeneratedByUserLifespan\":300,\"oauth2DeviceCodeLifespan\":600,\"oauth2DevicePollingInterval\":5,\"enabled\":true,\"sslRequired\":\"external\",\"registrationAllowed\":false,\"registrationEmailAsUsername\":false,\"rememberMe\":false,\"verifyEmail\":false,\"loginWithEmailAllowed\":true,\"duplicateEmailsAllowed\":false,\"resetPasswordAllowed\":true,\"editUsernameAllowed\":false,\"bruteForceProtected\":false,\"permanentLockout\":false,\"maxFailureWaitSeconds\":900,\"minimumQuickLoginWaitSeconds\":60,\"waitIncrementSeconds\":60,\"quickLoginCheckMilliSeconds\":1000,\"maxDeltaTimeSeconds\":43200,\"failureFactor\":30,\"defaultRole\":{\"id\":\"4decc226-d0d9-4cc9-88e3-2bb6c9b5be77\",\"name\":\"default-roles-acme-demo\",\"description\":\"${role_default-roles}\",\"composite\":true,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"},\"requiredCredentials\":[\"password\"],\"otpPolicyType\":\"totp\",\"otpPolicyAlgorithm\":\"HmacSHA1\",\"otpPolicyInitialCounter\":0,\"otpPolicyDigits\":6,\"otpPolicyLookAheadWindow\":1,\"otpPolicyPeriod\":30,\"otpPolicyCodeReusable\":false,\"otpSupportedApplications\":[\"totpAppFreeOTPName\",\"totpAppGoogleName\",\"totpAppMicrosoftAuthenticatorName\"],\"webAuthnPolicyRpEntityName\":\"keycloak\",\"webAuthnPolicySignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyRpId\":\"\",\"webAuthnPolicyAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyRequireResidentKey\":\"not specified\",\"webAuthnPolicyUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyCreateTimeout\":0,\"webAuthnPolicyAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyAcceptableAaguids\":[],\"webAuthnPolicyExtraOrigins\":[],\"webAuthnPolicyPasswordlessRpEntityName\":\"keycloak\",\"webAuthnPolicyPasswordlessSignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyPasswordlessRpId\":\"\",\"webAuthnPolicyPasswordlessAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyPasswordlessAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyPasswordlessRequireResidentKey\":\"not specified\",\"webAuthnPolicyPasswordlessUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyPasswordlessCreateTimeout\":0,\"webAuthnPolicyPasswordlessAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyPasswordlessAcceptableAaguids\":[],\"webAuthnPolicyPasswordlessExtraOrigins\":[],\"browserSecurityHeaders\":{\"contentSecurityPolicyReportOnly\":\"\",\"xContentTypeOptions\":\"nosniff\",\"referrerPolicy\":\"no-referrer\",\"xRobotsTag\":\"none\",\"xFrameOptions\":\"SAMEORIGIN\",\"contentSecurityPolicy\":\"frame-src 'self'; frame-ancestors 'self'; object-src 'none';\",\"xXSSProtection\":\"1; mode=block\",\"strictTransportSecurity\":\"max-age=31536000; includeSubDomains\"},\"smtpServer\":{\"replyToDisplayName\":\"Acme Employee Support\",\"port\":\"1025\",\"host\":\"mail\",\"replyTo\":\"no-reply@acme.test\",\"from\":\"acme-internal-sso@acme.test\",\"fromDisplayName\":\"Acme Employee Account\"},\"eventsEnabled\":true,\"eventsExpiration\":0,\"eventsListeners\":[\"openfga-events-publisher\",\"jboss-logging\"],\"enabledEventTypes\":[],\"adminEventsEnabled\":true,\"adminEventsDetailsEnabled\":true,\"identityProviders\":[],\"identityProviderMappers\":[],\"internationalizationEnabled\":false,\"supportedLocales\":[],\"browserFlow\":\"browser\",\"registrationFlow\":\"registration\",\"directGrantFlow\":\"direct grant\",\"resetCredentialsFlow\":\"reset credentials\",\"clientAuthenticationFlow\":\"clients\",\"dockerAuthenticationFlow\":\"docker auth\",\"attributes\":{\"cibaBackchannelTokenDeliveryMode\":\"poll\",\"cibaAuthRequestedUserHint\":\"login_hint\",\"oauth2DevicePollingInterval\":\"5\",\"clientOfflineSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.import-checksum-default\":\"b339318922ec768059239e8ba31a9051fea4584e7973650e981615d72d252634\",\"clientSessionIdleTimeout\":\"0\",\"clientOfflineSessionIdleTimeout\":\"0\",\"de.adorsys.keycloak.config.state-default-roles-realm-0\":\"[\\\"acme-user\\\",\\\"acme-user-support\\\",\\\"acme-tester\\\",\\\"acme-admin\\\"]\",\"cibaInterval\":\"5\",\"realmReusableOtpCode\":\"false\",\"cibaExpiresIn\":\"120\",\"oauth2DeviceCodeLifespan\":\"600\",\"parRequestUriLifespan\":\"60\",\"clientSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.state-default-clients-0\":\"[\\\"acme-standard-client\\\",\\\"acme-public-client-1\\\",\\\"acme-implicit-client\\\",\\\"acme-direct-access-client\\\",\\\"acme-service-client\\\",\\\"acme-device-client\\\"]\"},\"userManagedAccessAllowed\":false,\"clientProfiles\":{\"profiles\":[]},\"clientPolicies\":{\"policies\":[]}}"
+  },
+  {
+    "time": 1708369370412,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "REALM_ROLE_MAPPING",
+    "resourcePath": "users/3228d3f0-f1d1-4022-a043-3d0e1ffa2002/role-mappings/realm",
+    "representation": "[{\"id\":\"96e2f6ac-8273-404e-bd27-ec6bfc781b68\",\"name\":\"acme-user\",\"description\":\"Acme User Role\",\"composite\":false,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"attributes\":{}}]"
+  },
+  {
+    "time": 1708369370372,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "USER",
+    "resourcePath": "users/3228d3f0-f1d1-4022-a043-3d0e1ffa2002",
+    "representation": "{\"username\":\"user3\",\"enabled\":true,\"firstName\":\"User\",\"lastName\":\"Drei\",\"email\":\"user3@local.test\",\"attributes\":{\"locale\":[\"de\"]},\"realmRoles\":[\"acme-user\"]}"
+  },
+  {
+    "time": 1708369370248,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "REALM_ROLE_MAPPING",
+    "resourcePath": "users/f03715f1-e476-478b-827d-a4b9cbb34dcb/role-mappings/realm",
+    "representation": "[{\"id\":\"96e2f6ac-8273-404e-bd27-ec6bfc781b68\",\"name\":\"acme-user\",\"description\":\"Acme User Role\",\"composite\":false,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"attributes\":{}}]"
+  },
+  {
+    "time": 1708369370192,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "USER",
+    "resourcePath": "users/f03715f1-e476-478b-827d-a4b9cbb34dcb",
+    "representation": "{\"username\":\"user2\",\"enabled\":true,\"firstName\":\"User\",\"lastName\":\"Zwei\",\"email\":\"user2@local.test\",\"attributes\":{\"locale\":[\"de\"]},\"realmRoles\":[\"acme-user\"]}"
+  },
+  {
+    "time": 1708369370096,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "REALM_ROLE_MAPPING",
+    "resourcePath": "users/23a821df-ceb8-4303-9715-d5d71ed0895b/role-mappings/realm",
+    "representation": "[{\"id\":\"96e2f6ac-8273-404e-bd27-ec6bfc781b68\",\"name\":\"acme-user\",\"description\":\"Acme User Role\",\"composite\":false,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"attributes\":{}}]"
+  },
+  {
+    "time": 1708369370044,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "USER",
+    "resourcePath": "users/23a821df-ceb8-4303-9715-d5d71ed0895b",
+    "representation": "{\"username\":\"user1\",\"enabled\":true,\"firstName\":\"User\",\"lastName\":\"Eins\",\"email\":\"user1@local.test\",\"attributes\":{\"locale\":[\"de\"]},\"realmRoles\":[\"acme-user\"]}"
+  },
+  {
+    "time": 1708369369937,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "REALM_ROLE_MAPPING",
+    "resourcePath": "users/23d917fa-649f-4684-8a49-312554081f78/role-mappings/realm",
+    "representation": "[{\"id\":\"d66f1a8e-37b0-451a-987d-3ce0ab552c2e\",\"name\":\"acme-admin\",\"description\":\"Acme Admin Role\",\"composite\":false,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"attributes\":{}}]"
+  },
+  {
+    "time": 1708369369887,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "USER",
+    "resourcePath": "users/23d917fa-649f-4684-8a49-312554081f78",
+    "representation": "{\"username\":\"adm\",\"enabled\":true,\"firstName\":\"Tonia\",\"lastName\":\"Admina\",\"email\":\"adm@local.test\",\"attributes\":{\"locale\":[\"de\"]},\"realmRoles\":[\"acme-admin\"]}"
+  },
+  {
+    "time": 1708369369758,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "REALM_ROLE_MAPPING",
+    "resourcePath": "users/37acfa81-d866-45bd-ad08-ad67f3c2cd66/role-mappings/realm",
+    "representation": "[{\"id\":\"466a3173-a2e4-4d77-a3dc-1398b92a203f\",\"name\":\"acme-tester\",\"description\":\"Acme Tester Role\",\"composite\":true,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"attributes\":{}}]"
+  },
+  {
+    "time": 1708369369703,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "USER",
+    "resourcePath": "users/37acfa81-d866-45bd-ad08-ad67f3c2cd66",
+    "representation": "{\"username\":\"theo\",\"enabled\":true,\"firstName\":\"Theo\",\"lastName\":\"Tester\",\"email\":\"theo@local.test\",\"attributes\":{\"locale\":[\"de\"]},\"realmRoles\":[\"acme-tester\"]}"
+  },
+  {
+    "time": 1708369369598,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "REALM_ROLE_MAPPING",
+    "resourcePath": "users/33dd9d47-a75d-4ea5-bdb8-371d7fa6ce78/role-mappings/realm",
+    "representation": "[{\"id\":\"96e2f6ac-8273-404e-bd27-ec6bfc781b68\",\"name\":\"acme-user\",\"description\":\"Acme User Role\",\"composite\":false,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"attributes\":{}}]"
+  },
+  {
+    "time": 1708369369541,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "USER",
+    "resourcePath": "users/33dd9d47-a75d-4ea5-bdb8-371d7fa6ce78",
+    "representation": "{\"username\":\"ulla\",\"enabled\":true,\"firstName\":\"Ulla\",\"lastName\":\"User\",\"email\":\"test3@local.test\",\"attributes\":{\"locale\":[\"de\"]},\"realmRoles\":[\"acme-user\"]}"
+  },
+  {
+    "time": 1708369369366,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"realm\":\"acme-demo\",\"eventsEnabled\":true,\"eventsExpiration\":0,\"clientProfiles\":null,\"clientPolicies\":null}"
+  },
+  {
+    "time": 1708369369310,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"id\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"realm\":\"acme-demo\",\"displayName\":\"Acme Demo\",\"displayNameHtml\":\"Acme Demo\",\"notBefore\":0,\"defaultSignatureAlgorithm\":\"RS256\",\"revokeRefreshToken\":false,\"refreshTokenMaxReuse\":0,\"accessTokenLifespan\":300,\"accessTokenLifespanForImplicitFlow\":900,\"ssoSessionIdleTimeout\":1800,\"ssoSessionMaxLifespan\":36000,\"ssoSessionIdleTimeoutRememberMe\":0,\"ssoSessionMaxLifespanRememberMe\":0,\"offlineSessionIdleTimeout\":2592000,\"offlineSessionMaxLifespanEnabled\":false,\"offlineSessionMaxLifespan\":5184000,\"clientSessionIdleTimeout\":0,\"clientSessionMaxLifespan\":0,\"clientOfflineSessionIdleTimeout\":0,\"clientOfflineSessionMaxLifespan\":0,\"accessCodeLifespan\":60,\"accessCodeLifespanUserAction\":300,\"accessCodeLifespanLogin\":1800,\"actionTokenGeneratedByAdminLifespan\":43200,\"actionTokenGeneratedByUserLifespan\":300,\"oauth2DeviceCodeLifespan\":600,\"oauth2DevicePollingInterval\":5,\"enabled\":true,\"sslRequired\":\"external\",\"registrationAllowed\":false,\"registrationEmailAsUsername\":false,\"rememberMe\":false,\"verifyEmail\":false,\"loginWithEmailAllowed\":true,\"duplicateEmailsAllowed\":false,\"resetPasswordAllowed\":true,\"editUsernameAllowed\":false,\"bruteForceProtected\":false,\"permanentLockout\":false,\"maxFailureWaitSeconds\":900,\"minimumQuickLoginWaitSeconds\":60,\"waitIncrementSeconds\":60,\"quickLoginCheckMilliSeconds\":1000,\"maxDeltaTimeSeconds\":43200,\"failureFactor\":30,\"defaultRole\":{\"id\":\"4decc226-d0d9-4cc9-88e3-2bb6c9b5be77\",\"name\":\"default-roles-acme-demo\",\"description\":\"${role_default-roles}\",\"composite\":true,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"},\"requiredCredentials\":[\"password\"],\"otpPolicyType\":\"totp\",\"otpPolicyAlgorithm\":\"HmacSHA1\",\"otpPolicyInitialCounter\":0,\"otpPolicyDigits\":6,\"otpPolicyLookAheadWindow\":1,\"otpPolicyPeriod\":30,\"otpPolicyCodeReusable\":false,\"otpSupportedApplications\":[\"totpAppFreeOTPName\",\"totpAppGoogleName\",\"totpAppMicrosoftAuthenticatorName\"],\"webAuthnPolicyRpEntityName\":\"keycloak\",\"webAuthnPolicySignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyRpId\":\"\",\"webAuthnPolicyAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyRequireResidentKey\":\"not specified\",\"webAuthnPolicyUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyCreateTimeout\":0,\"webAuthnPolicyAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyAcceptableAaguids\":[],\"webAuthnPolicyExtraOrigins\":[],\"webAuthnPolicyPasswordlessRpEntityName\":\"keycloak\",\"webAuthnPolicyPasswordlessSignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyPasswordlessRpId\":\"\",\"webAuthnPolicyPasswordlessAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyPasswordlessAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyPasswordlessRequireResidentKey\":\"not specified\",\"webAuthnPolicyPasswordlessUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyPasswordlessCreateTimeout\":0,\"webAuthnPolicyPasswordlessAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyPasswordlessAcceptableAaguids\":[],\"webAuthnPolicyPasswordlessExtraOrigins\":[],\"browserSecurityHeaders\":{\"contentSecurityPolicyReportOnly\":\"\",\"xContentTypeOptions\":\"nosniff\",\"referrerPolicy\":\"no-referrer\",\"xRobotsTag\":\"none\",\"xFrameOptions\":\"SAMEORIGIN\",\"contentSecurityPolicy\":\"frame-src 'self'; frame-ancestors 'self'; object-src 'none';\",\"xXSSProtection\":\"1; mode=block\",\"strictTransportSecurity\":\"max-age=31536000; includeSubDomains\"},\"smtpServer\":{\"replyToDisplayName\":\"Acme Employee Support\",\"port\":\"1025\",\"host\":\"mail\",\"replyTo\":\"no-reply@acme.test\",\"from\":\"acme-internal-sso@acme.test\",\"fromDisplayName\":\"Acme Employee Account\"},\"eventsEnabled\":true,\"eventsExpiration\":0,\"eventsListeners\":[\"openfga-events-publisher\",\"jboss-logging\"],\"enabledEventTypes\":[],\"adminEventsEnabled\":true,\"adminEventsDetailsEnabled\":true,\"identityProviders\":[],\"identityProviderMappers\":[],\"internationalizationEnabled\":false,\"supportedLocales\":[],\"browserFlow\":\"browser\",\"registrationFlow\":\"registration\",\"directGrantFlow\":\"direct grant\",\"resetCredentialsFlow\":\"reset credentials\",\"clientAuthenticationFlow\":\"clients\",\"dockerAuthenticationFlow\":\"docker auth\",\"attributes\":{\"cibaBackchannelTokenDeliveryMode\":\"poll\",\"cibaAuthRequestedUserHint\":\"login_hint\",\"oauth2DevicePollingInterval\":\"5\",\"clientOfflineSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.import-checksum-default\":\"b339318922ec768059239e8ba31a9051fea4584e7973650e981615d72d252634\",\"clientSessionIdleTimeout\":\"0\",\"clientOfflineSessionIdleTimeout\":\"0\",\"de.adorsys.keycloak.config.state-default-roles-realm-0\":\"[\\\"acme-user\\\",\\\"acme-user-support\\\",\\\"acme-tester\\\",\\\"acme-admin\\\"]\",\"cibaInterval\":\"5\",\"realmReusableOtpCode\":\"false\",\"cibaExpiresIn\":\"120\",\"oauth2DeviceCodeLifespan\":\"600\",\"parRequestUriLifespan\":\"60\",\"clientSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.state-default-clients-0\":\"[\\\"acme-standard-client\\\",\\\"acme-public-client-1\\\",\\\"acme-implicit-client\\\",\\\"acme-direct-access-client\\\",\\\"acme-service-client\\\",\\\"acme-device-client\\\"]\"},\"userManagedAccessAllowed\":false,\"clientProfiles\":{\"profiles\":[]},\"clientPolicies\":{\"policies\":[]}}"
+  },
+  {
+    "time": 1708369369262,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"id\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"realm\":\"acme-demo\",\"displayName\":\"Acme Demo\",\"displayNameHtml\":\"Acme Demo\",\"notBefore\":0,\"defaultSignatureAlgorithm\":\"RS256\",\"revokeRefreshToken\":false,\"refreshTokenMaxReuse\":0,\"accessTokenLifespan\":300,\"accessTokenLifespanForImplicitFlow\":900,\"ssoSessionIdleTimeout\":1800,\"ssoSessionMaxLifespan\":36000,\"ssoSessionIdleTimeoutRememberMe\":0,\"ssoSessionMaxLifespanRememberMe\":0,\"offlineSessionIdleTimeout\":2592000,\"offlineSessionMaxLifespanEnabled\":false,\"offlineSessionMaxLifespan\":5184000,\"clientSessionIdleTimeout\":0,\"clientSessionMaxLifespan\":0,\"clientOfflineSessionIdleTimeout\":0,\"clientOfflineSessionMaxLifespan\":0,\"accessCodeLifespan\":60,\"accessCodeLifespanUserAction\":300,\"accessCodeLifespanLogin\":1800,\"actionTokenGeneratedByAdminLifespan\":43200,\"actionTokenGeneratedByUserLifespan\":300,\"oauth2DeviceCodeLifespan\":600,\"oauth2DevicePollingInterval\":5,\"enabled\":true,\"sslRequired\":\"external\",\"registrationAllowed\":false,\"registrationEmailAsUsername\":false,\"rememberMe\":false,\"verifyEmail\":false,\"loginWithEmailAllowed\":true,\"duplicateEmailsAllowed\":false,\"resetPasswordAllowed\":true,\"editUsernameAllowed\":false,\"bruteForceProtected\":false,\"permanentLockout\":false,\"maxFailureWaitSeconds\":900,\"minimumQuickLoginWaitSeconds\":60,\"waitIncrementSeconds\":60,\"quickLoginCheckMilliSeconds\":1000,\"maxDeltaTimeSeconds\":43200,\"failureFactor\":30,\"defaultRole\":{\"id\":\"4decc226-d0d9-4cc9-88e3-2bb6c9b5be77\",\"name\":\"default-roles-acme-demo\",\"description\":\"${role_default-roles}\",\"composite\":true,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"},\"requiredCredentials\":[\"password\"],\"otpPolicyType\":\"totp\",\"otpPolicyAlgorithm\":\"HmacSHA1\",\"otpPolicyInitialCounter\":0,\"otpPolicyDigits\":6,\"otpPolicyLookAheadWindow\":1,\"otpPolicyPeriod\":30,\"otpPolicyCodeReusable\":false,\"otpSupportedApplications\":[\"totpAppFreeOTPName\",\"totpAppGoogleName\",\"totpAppMicrosoftAuthenticatorName\"],\"webAuthnPolicyRpEntityName\":\"keycloak\",\"webAuthnPolicySignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyRpId\":\"\",\"webAuthnPolicyAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyRequireResidentKey\":\"not specified\",\"webAuthnPolicyUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyCreateTimeout\":0,\"webAuthnPolicyAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyAcceptableAaguids\":[],\"webAuthnPolicyExtraOrigins\":[],\"webAuthnPolicyPasswordlessRpEntityName\":\"keycloak\",\"webAuthnPolicyPasswordlessSignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyPasswordlessRpId\":\"\",\"webAuthnPolicyPasswordlessAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyPasswordlessAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyPasswordlessRequireResidentKey\":\"not specified\",\"webAuthnPolicyPasswordlessUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyPasswordlessCreateTimeout\":0,\"webAuthnPolicyPasswordlessAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyPasswordlessAcceptableAaguids\":[],\"webAuthnPolicyPasswordlessExtraOrigins\":[],\"browserSecurityHeaders\":{\"contentSecurityPolicyReportOnly\":\"\",\"xContentTypeOptions\":\"nosniff\",\"referrerPolicy\":\"no-referrer\",\"xRobotsTag\":\"none\",\"xFrameOptions\":\"SAMEORIGIN\",\"contentSecurityPolicy\":\"frame-src 'self'; frame-ancestors 'self'; object-src 'none';\",\"xXSSProtection\":\"1; mode=block\",\"strictTransportSecurity\":\"max-age=31536000; includeSubDomains\"},\"smtpServer\":{\"replyToDisplayName\":\"Acme Employee Support\",\"port\":\"1025\",\"host\":\"mail\",\"replyTo\":\"no-reply@acme.test\",\"from\":\"acme-internal-sso@acme.test\",\"fromDisplayName\":\"Acme Employee Account\"},\"eventsEnabled\":true,\"eventsExpiration\":0,\"eventsListeners\":[\"openfga-events-publisher\",\"jboss-logging\"],\"enabledEventTypes\":[],\"adminEventsEnabled\":true,\"adminEventsDetailsEnabled\":true,\"identityProviders\":[],\"identityProviderMappers\":[],\"internationalizationEnabled\":false,\"supportedLocales\":[],\"browserFlow\":\"browser\",\"registrationFlow\":\"registration\",\"directGrantFlow\":\"direct grant\",\"resetCredentialsFlow\":\"reset credentials\",\"clientAuthenticationFlow\":\"clients\",\"dockerAuthenticationFlow\":\"docker auth\",\"attributes\":{\"cibaBackchannelTokenDeliveryMode\":\"poll\",\"cibaAuthRequestedUserHint\":\"login_hint\",\"oauth2DevicePollingInterval\":\"5\",\"clientOfflineSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.import-checksum-default\":\"cab6d6d732fd2605231cac604189e23c3e8b5f22c6eb450c5a5a706bd9b26b8d\",\"clientSessionIdleTimeout\":\"0\",\"clientOfflineSessionIdleTimeout\":\"0\",\"de.adorsys.keycloak.config.state-default-roles-realm-0\":\"[\\\"acme-user\\\",\\\"acme-user-support\\\",\\\"acme-tester\\\",\\\"acme-admin\\\"]\",\"cibaInterval\":\"5\",\"realmReusableOtpCode\":\"false\",\"cibaExpiresIn\":\"120\",\"oauth2DeviceCodeLifespan\":\"600\",\"parRequestUriLifespan\":\"60\",\"clientSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.state-default-clients-0\":\"[\\\"acme-standard-client\\\",\\\"acme-public-client-1\\\",\\\"acme-implicit-client\\\",\\\"acme-direct-access-client\\\",\\\"acme-service-client\\\",\\\"acme-device-client\\\"]\"},\"userManagedAccessAllowed\":false,\"clientProfiles\":{\"profiles\":[]},\"clientPolicies\":{\"policies\":[]}}"
+  },
+  {
+    "time": 1708369369076,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "GROUP",
+    "resourcePath": "groups/7ea15965-b788-486f-b5ac-09d02c1f1484",
+    "representation": "{\"id\":\"7ea15965-b788-486f-b5ac-09d02c1f1484\",\"name\":\"acme-region1\",\"path\":\"/acme-region1\",\"subGroupCount\":2,\"subGroups\":[{\"name\":\"acme-subregion1\",\"path\":\"/acme-region1/acme-subregion1\",\"subGroups\":[]},{\"name\":\"acme-subregion2\",\"path\":\"/acme-region1/acme-subregion2\",\"subGroups\":[]}],\"access\":{\"view\":true,\"viewMembers\":true,\"manageMembers\":true,\"manage\":true,\"manageMembership\":true}}"
+  },
+  {
+    "time": 1708369368919,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM_ROLE",
+    "resourcePath": "roles/acme-admin",
+    "representation": "{\"id\":\"d66f1a8e-37b0-451a-987d-3ce0ab552c2e\",\"name\":\"acme-admin\",\"description\":\"Acme Admin Role\",\"scopeParamRequired\":false,\"composite\":false,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"}"
+  },
+  {
+    "time": 1708369368904,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM_ROLE",
+    "resourcePath": "roles/acme-tester",
+    "representation": "{\"id\":\"466a3173-a2e4-4d77-a3dc-1398b92a203f\",\"name\":\"acme-tester\",\"description\":\"Acme Tester Role\",\"scopeParamRequired\":false,\"composite\":true,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"}"
+  },
+  {
+    "time": 1708369368889,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM_ROLE",
+    "resourcePath": "roles/acme-user-support",
+    "representation": "{\"id\":\"47a465e8-cdd9-4563-b206-76b70596c068\",\"name\":\"acme-user-support\",\"description\":\"Acme User Support Role\",\"scopeParamRequired\":false,\"composite\":false,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"}"
+  },
+  {
+    "time": 1708369368871,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM_ROLE",
+    "resourcePath": "roles/acme-user",
+    "representation": "{\"id\":\"96e2f6ac-8273-404e-bd27-ec6bfc781b68\",\"name\":\"acme-user\",\"description\":\"Acme User Role\",\"scopeParamRequired\":false,\"composite\":false,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"}"
+  },
+  {
+    "time": 1708369368782,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"realm\":\"acme-demo\",\"eventsEnabled\":true,\"eventsExpiration\":0,\"clientProfiles\":null,\"clientPolicies\":null}"
+  },
+  {
+    "time": 1708369356578,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"id\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"realm\":\"acme-demo\",\"displayName\":\"Acme Demo\",\"displayNameHtml\":\"Acme Demo\",\"notBefore\":0,\"defaultSignatureAlgorithm\":\"RS256\",\"revokeRefreshToken\":false,\"refreshTokenMaxReuse\":0,\"accessTokenLifespan\":300,\"accessTokenLifespanForImplicitFlow\":900,\"ssoSessionIdleTimeout\":1800,\"ssoSessionMaxLifespan\":36000,\"ssoSessionIdleTimeoutRememberMe\":0,\"ssoSessionMaxLifespanRememberMe\":0,\"offlineSessionIdleTimeout\":2592000,\"offlineSessionMaxLifespanEnabled\":false,\"offlineSessionMaxLifespan\":5184000,\"clientSessionIdleTimeout\":0,\"clientSessionMaxLifespan\":0,\"clientOfflineSessionIdleTimeout\":0,\"clientOfflineSessionMaxLifespan\":0,\"accessCodeLifespan\":60,\"accessCodeLifespanUserAction\":300,\"accessCodeLifespanLogin\":1800,\"actionTokenGeneratedByAdminLifespan\":43200,\"actionTokenGeneratedByUserLifespan\":300,\"oauth2DeviceCodeLifespan\":600,\"oauth2DevicePollingInterval\":5,\"enabled\":true,\"sslRequired\":\"external\",\"registrationAllowed\":false,\"registrationEmailAsUsername\":false,\"rememberMe\":false,\"verifyEmail\":false,\"loginWithEmailAllowed\":true,\"duplicateEmailsAllowed\":false,\"resetPasswordAllowed\":true,\"editUsernameAllowed\":false,\"bruteForceProtected\":false,\"permanentLockout\":false,\"maxFailureWaitSeconds\":900,\"minimumQuickLoginWaitSeconds\":60,\"waitIncrementSeconds\":60,\"quickLoginCheckMilliSeconds\":1000,\"maxDeltaTimeSeconds\":43200,\"failureFactor\":30,\"defaultRole\":{\"id\":\"4decc226-d0d9-4cc9-88e3-2bb6c9b5be77\",\"name\":\"default-roles-acme-demo\",\"description\":\"${role_default-roles}\",\"composite\":true,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"},\"requiredCredentials\":[\"password\"],\"otpPolicyType\":\"totp\",\"otpPolicyAlgorithm\":\"HmacSHA1\",\"otpPolicyInitialCounter\":0,\"otpPolicyDigits\":6,\"otpPolicyLookAheadWindow\":1,\"otpPolicyPeriod\":30,\"otpPolicyCodeReusable\":false,\"otpSupportedApplications\":[\"totpAppFreeOTPName\",\"totpAppGoogleName\",\"totpAppMicrosoftAuthenticatorName\"],\"webAuthnPolicyRpEntityName\":\"keycloak\",\"webAuthnPolicySignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyRpId\":\"\",\"webAuthnPolicyAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyRequireResidentKey\":\"not specified\",\"webAuthnPolicyUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyCreateTimeout\":0,\"webAuthnPolicyAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyAcceptableAaguids\":[],\"webAuthnPolicyExtraOrigins\":[],\"webAuthnPolicyPasswordlessRpEntityName\":\"keycloak\",\"webAuthnPolicyPasswordlessSignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyPasswordlessRpId\":\"\",\"webAuthnPolicyPasswordlessAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyPasswordlessAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyPasswordlessRequireResidentKey\":\"not specified\",\"webAuthnPolicyPasswordlessUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyPasswordlessCreateTimeout\":0,\"webAuthnPolicyPasswordlessAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyPasswordlessAcceptableAaguids\":[],\"webAuthnPolicyPasswordlessExtraOrigins\":[],\"browserSecurityHeaders\":{\"contentSecurityPolicyReportOnly\":\"\",\"xContentTypeOptions\":\"nosniff\",\"referrerPolicy\":\"no-referrer\",\"xRobotsTag\":\"none\",\"xFrameOptions\":\"SAMEORIGIN\",\"contentSecurityPolicy\":\"frame-src 'self'; frame-ancestors 'self'; object-src 'none';\",\"xXSSProtection\":\"1; mode=block\",\"strictTransportSecurity\":\"max-age=31536000; includeSubDomains\"},\"smtpServer\":{\"replyToDisplayName\":\"Acme Employee Support\",\"port\":\"1025\",\"host\":\"mail\",\"replyTo\":\"no-reply@acme.test\",\"from\":\"acme-internal-sso@acme.test\",\"fromDisplayName\":\"Acme Employee Account\"},\"eventsEnabled\":true,\"eventsExpiration\":10368000,\"eventsListeners\":[\"openfga-events-publisher\",\"jboss-logging\"],\"enabledEventTypes\":[],\"adminEventsEnabled\":true,\"adminEventsDetailsEnabled\":true,\"identityProviders\":[],\"identityProviderMappers\":[],\"internationalizationEnabled\":false,\"supportedLocales\":[],\"browserFlow\":\"browser\",\"registrationFlow\":\"registration\",\"directGrantFlow\":\"direct grant\",\"resetCredentialsFlow\":\"reset credentials\",\"clientAuthenticationFlow\":\"clients\",\"dockerAuthenticationFlow\":\"docker auth\",\"attributes\":{\"cibaBackchannelTokenDeliveryMode\":\"poll\",\"cibaAuthRequestedUserHint\":\"login_hint\",\"oauth2DevicePollingInterval\":\"5\",\"clientOfflineSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.import-checksum-default\":\"cab6d6d732fd2605231cac604189e23c3e8b5f22c6eb450c5a5a706bd9b26b8d\",\"clientSessionIdleTimeout\":\"0\",\"clientOfflineSessionIdleTimeout\":\"0\",\"de.adorsys.keycloak.config.state-default-roles-realm-0\":\"[\\\"acme-user\\\",\\\"acme-user-support\\\",\\\"acme-tester\\\",\\\"acme-admin\\\"]\",\"cibaInterval\":\"5\",\"realmReusableOtpCode\":\"false\",\"cibaExpiresIn\":\"120\",\"oauth2DeviceCodeLifespan\":\"600\",\"parRequestUriLifespan\":\"60\",\"clientSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.state-default-clients-0\":\"[\\\"acme-standard-client\\\",\\\"acme-public-client-1\\\",\\\"acme-implicit-client\\\",\\\"acme-direct-access-client\\\",\\\"acme-service-client\\\",\\\"acme-device-client\\\"]\"},\"userManagedAccessAllowed\":false,\"clientProfiles\":{\"profiles\":[]},\"clientPolicies\":{\"policies\":[]}}"
+  },
+  {
+    "time": 1708369356499,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"id\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"realm\":\"acme-demo\",\"displayName\":\"Acme Demo\",\"displayNameHtml\":\"Acme Demo\",\"notBefore\":0,\"defaultSignatureAlgorithm\":\"RS256\",\"revokeRefreshToken\":false,\"refreshTokenMaxReuse\":0,\"accessTokenLifespan\":300,\"accessTokenLifespanForImplicitFlow\":900,\"ssoSessionIdleTimeout\":1800,\"ssoSessionMaxLifespan\":36000,\"ssoSessionIdleTimeoutRememberMe\":0,\"ssoSessionMaxLifespanRememberMe\":0,\"offlineSessionIdleTimeout\":2592000,\"offlineSessionMaxLifespanEnabled\":false,\"offlineSessionMaxLifespan\":5184000,\"clientSessionIdleTimeout\":0,\"clientSessionMaxLifespan\":0,\"clientOfflineSessionIdleTimeout\":0,\"clientOfflineSessionMaxLifespan\":0,\"accessCodeLifespan\":60,\"accessCodeLifespanUserAction\":300,\"accessCodeLifespanLogin\":1800,\"actionTokenGeneratedByAdminLifespan\":43200,\"actionTokenGeneratedByUserLifespan\":300,\"oauth2DeviceCodeLifespan\":600,\"oauth2DevicePollingInterval\":5,\"enabled\":true,\"sslRequired\":\"external\",\"registrationAllowed\":false,\"registrationEmailAsUsername\":false,\"rememberMe\":false,\"verifyEmail\":false,\"loginWithEmailAllowed\":true,\"duplicateEmailsAllowed\":false,\"resetPasswordAllowed\":true,\"editUsernameAllowed\":false,\"bruteForceProtected\":false,\"permanentLockout\":false,\"maxFailureWaitSeconds\":900,\"minimumQuickLoginWaitSeconds\":60,\"waitIncrementSeconds\":60,\"quickLoginCheckMilliSeconds\":1000,\"maxDeltaTimeSeconds\":43200,\"failureFactor\":30,\"defaultRole\":{\"id\":\"4decc226-d0d9-4cc9-88e3-2bb6c9b5be77\",\"name\":\"default-roles-acme-demo\",\"description\":\"${role_default-roles}\",\"composite\":true,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"},\"requiredCredentials\":[\"password\"],\"otpPolicyType\":\"totp\",\"otpPolicyAlgorithm\":\"HmacSHA1\",\"otpPolicyInitialCounter\":0,\"otpPolicyDigits\":6,\"otpPolicyLookAheadWindow\":1,\"otpPolicyPeriod\":30,\"otpPolicyCodeReusable\":false,\"otpSupportedApplications\":[\"totpAppFreeOTPName\",\"totpAppGoogleName\",\"totpAppMicrosoftAuthenticatorName\"],\"webAuthnPolicyRpEntityName\":\"keycloak\",\"webAuthnPolicySignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyRpId\":\"\",\"webAuthnPolicyAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyRequireResidentKey\":\"not specified\",\"webAuthnPolicyUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyCreateTimeout\":0,\"webAuthnPolicyAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyAcceptableAaguids\":[],\"webAuthnPolicyExtraOrigins\":[],\"webAuthnPolicyPasswordlessRpEntityName\":\"keycloak\",\"webAuthnPolicyPasswordlessSignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyPasswordlessRpId\":\"\",\"webAuthnPolicyPasswordlessAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyPasswordlessAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyPasswordlessRequireResidentKey\":\"not specified\",\"webAuthnPolicyPasswordlessUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyPasswordlessCreateTimeout\":0,\"webAuthnPolicyPasswordlessAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyPasswordlessAcceptableAaguids\":[],\"webAuthnPolicyPasswordlessExtraOrigins\":[],\"browserSecurityHeaders\":{\"contentSecurityPolicyReportOnly\":\"\",\"xContentTypeOptions\":\"nosniff\",\"referrerPolicy\":\"no-referrer\",\"xRobotsTag\":\"none\",\"xFrameOptions\":\"SAMEORIGIN\",\"contentSecurityPolicy\":\"frame-src 'self'; frame-ancestors 'self'; object-src 'none';\",\"xXSSProtection\":\"1; mode=block\",\"strictTransportSecurity\":\"max-age=31536000; includeSubDomains\"},\"smtpServer\":{\"replyToDisplayName\":\"Acme Employee Support\",\"port\":\"1025\",\"host\":\"mail\",\"replyTo\":\"no-reply@acme.test\",\"from\":\"acme-internal-sso@acme.test\",\"fromDisplayName\":\"Acme Employee Account\"},\"eventsEnabled\":true,\"eventsExpiration\":10368000,\"eventsListeners\":[\"openfga-events-publisher\",\"jboss-logging\"],\"enabledEventTypes\":[],\"adminEventsEnabled\":true,\"adminEventsDetailsEnabled\":true,\"identityProviders\":[],\"identityProviderMappers\":[],\"internationalizationEnabled\":false,\"supportedLocales\":[],\"browserFlow\":\"browser\",\"registrationFlow\":\"registration\",\"directGrantFlow\":\"direct grant\",\"resetCredentialsFlow\":\"reset credentials\",\"clientAuthenticationFlow\":\"clients\",\"dockerAuthenticationFlow\":\"docker auth\",\"attributes\":{\"cibaBackchannelTokenDeliveryMode\":\"poll\",\"cibaAuthRequestedUserHint\":\"login_hint\",\"oauth2DevicePollingInterval\":\"5\",\"clientOfflineSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.import-checksum-default\":\"b339318922ec768059239e8ba31a9051fea4584e7973650e981615d72d252634\",\"clientSessionIdleTimeout\":\"0\",\"clientOfflineSessionIdleTimeout\":\"0\",\"de.adorsys.keycloak.config.state-default-roles-realm-0\":\"[\\\"acme-user\\\",\\\"acme-user-support\\\",\\\"acme-tester\\\",\\\"acme-admin\\\"]\",\"cibaInterval\":\"5\",\"realmReusableOtpCode\":\"false\",\"cibaExpiresIn\":\"120\",\"oauth2DeviceCodeLifespan\":\"600\",\"parRequestUriLifespan\":\"60\",\"clientSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.state-default-clients-0\":\"[\\\"acme-standard-client\\\",\\\"acme-public-client-1\\\",\\\"acme-implicit-client\\\",\\\"acme-direct-access-client\\\",\\\"acme-service-client\\\",\\\"acme-device-client\\\"]\"},\"userManagedAccessAllowed\":false,\"clientProfiles\":{\"profiles\":[]},\"clientPolicies\":{\"policies\":[]}}"
+  },
+  {
+    "time": 1708369356426,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-device-client",
+    "representation": "{\"id\":\"acme-device-client\",\"clientId\":\"acme-device-client\",\"name\":\"Client with Device Flow Grant\",\"description\":\"Device Flow Grant Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"redirectUris\":[],\"webOrigins\":[],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":false,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"authorizationServicesEnabled\":false,\"publicClient\":true,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"oauth2.device.authorization.grant.enabled\":\"true\",\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\",\"use.refresh.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369356396,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-service-client-1",
+    "representation": "{\"id\":\"acme-service-client-1\",\"clientId\":\"acme-service-client\",\"name\":\"Standard Client with Client Credentials Grant\",\"description\":\"Service Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"secret\":\"acme-service-client-1-secret\",\"redirectUris\":[],\"webOrigins\":[],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":false,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":true,\"publicClient\":false,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"protocolMappers\":[{\"id\":\"3f8361ef-d2db-4658-8018-bcf15e5629fe\",\"name\":\"Client Host\",\"protocol\":\"openid-connect\",\"protocolMapper\":\"oidc-usersessionmodel-note-mapper\",\"consentRequired\":false,\"config\":{\"user.session.note\":\"clientHost\",\"introspection.token.claim\":\"true\",\"id.token.claim\":\"true\",\"access.token.claim\":\"true\",\"claim.name\":\"clientHost\",\"jsonType.label\":\"String\"}},{\"id\":\"ae9fc48f-77ee-49e7-af3e-fc456b1496fe\",\"name\":\"Client ID\",\"protocol\":\"openid-connect\",\"protocolMapper\":\"oidc-usersessionmodel-note-mapper\",\"consentRequired\":false,\"config\":{\"user.session.note\":\"client_id\",\"introspection.token.claim\":\"true\",\"id.token.claim\":\"true\",\"access.token.claim\":\"true\",\"claim.name\":\"client_id\",\"jsonType.label\":\"String\"}},{\"id\":\"de4889b8-7c3d-429d-a7d9-3c717d1f2704\",\"name\":\"Client IP Address\",\"protocol\":\"openid-connect\",\"protocolMapper\":\"oidc-usersessionmodel-note-mapper\",\"consentRequired\":false,\"config\":{\"user.session.note\":\"clientAddress\",\"introspection.token.claim\":\"true\",\"id.token.claim\":\"true\",\"access.token.claim\":\"true\",\"claim.name\":\"clientAddress\",\"jsonType.label\":\"String\"}}],\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369356370,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-direct-access-client-1",
+    "representation": "{\"id\":\"acme-direct-access-client-1\",\"clientId\":\"acme-direct-access-client\",\"name\":\"Standard Client with ROPC Grant\",\"description\":\"Direct Access Grant Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"secret\":\"acme-direct-access-client-1-secret\",\"redirectUris\":[\"http://localhost/acme-direct-access-client-1/login*\",\"https://flowsimulator.pragmaticwebsecurity.com/*\"],\"webOrigins\":[\"https://flowsimulator.pragmaticwebsecurity.com\",\"http://localhost\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":false,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":true,\"serviceAccountsEnabled\":false,\"publicClient\":false,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369356349,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-implicit-client-1",
+    "representation": "{\"id\":\"acme-implicit-client-1\",\"clientId\":\"acme-implicit-client\",\"name\":\"Client with Implicit Grant\",\"description\":\"Implicit Client Description v2\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"redirectUris\":[\"http://localhost/acme-implcit-client/oauth/callback\"],\"webOrigins\":[\"http://localhost\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":true,\"implicitFlowEnabled\":true,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"authorizationServicesEnabled\":false,\"publicClient\":true,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369356314,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-public-client-1",
+    "representation": "{\"id\":\"acme-public-client-1\",\"clientId\":\"acme-public-client-1\",\"name\":\"Client with Standard Flow\",\"description\":\"Public Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"redirectUris\":[\"https://flowsimulator.pragmaticwebsecurity.com\",\"http://localhost/acme-public-client/login*\"],\"webOrigins\":[\"+\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":true,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"authorizationServicesEnabled\":false,\"publicClient\":true,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"post.logout.redirect.uris\":\"+\",\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369356286,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-standard-client-1",
+    "representation": "{\"id\":\"acme-standard-client-1\",\"clientId\":\"acme-standard-client\",\"name\":\"Client with Standard Flow\",\"description\":\"Standard Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"secret\":\"acme-standard-client-1-secret\",\"redirectUris\":[\"http://localhost/acme-standard-client/login*\",\"https://flowsimulator.pragmaticwebsecurity.com\"],\"webOrigins\":[\"+\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":true,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"publicClient\":false,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"post.logout.redirect.uris\":\"+\",\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369356193,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-device-client",
+    "representation": "{\"id\":\"acme-device-client\",\"clientId\":\"acme-device-client\",\"name\":\"Client with Device Flow Grant\",\"description\":\"Device Flow Grant Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"redirectUris\":[],\"webOrigins\":[],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":false,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"authorizationServicesEnabled\":false,\"publicClient\":true,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"use.refresh.tokens\":\"false\",\"oauth2.device.authorization.grant.enabled\":\"true\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369356121,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-public-client-1",
+    "representation": "{\"id\":\"acme-public-client-1\",\"clientId\":\"acme-public-client-1\",\"name\":\"Client with Standard Flow\",\"description\":\"Public Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"redirectUris\":[\"http://localhost/acme-public-client/login*\",\"https://flowsimulator.pragmaticwebsecurity.com\"],\"webOrigins\":[\"+\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":true,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"authorizationServicesEnabled\":false,\"publicClient\":true,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"post.logout.redirect.uris\":\"+\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369356095,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-standard-client-1",
+    "representation": "{\"id\":\"acme-standard-client-1\",\"clientId\":\"acme-standard-client\",\"name\":\"Client with Standard Flow\",\"description\":\"Standard Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"secret\":\"acme-standard-client-1-secret\",\"redirectUris\":[\"http://localhost/acme-standard-client/login*\",\"https://flowsimulator.pragmaticwebsecurity.com\"],\"webOrigins\":[\"+\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":true,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"publicClient\":false,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"post.logout.redirect.uris\":\"+\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369355985,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"realm\":\"acme-demo\",\"displayName\":\"Acme Demo\",\"displayNameHtml\":\"Acme Demo\",\"enabled\":true,\"sslRequired\":\"EXTERNAL\",\"loginWithEmailAllowed\":true,\"resetPasswordAllowed\":true,\"smtpServer\":{\"replyToDisplayName\":\"Acme Employee Support\",\"port\":\"1025\",\"host\":\"mail\",\"replyTo\":\"no-reply@acme.test\",\"from\":\"acme-internal-sso@acme.test\",\"fromDisplayName\":\"Acme Employee Account\"},\"eventsEnabled\":true,\"eventsExpiration\":10368000,\"eventsListeners\":[\"jboss-logging\",\"openfga-events-publisher\"],\"adminEventsEnabled\":true,\"adminEventsDetailsEnabled\":true,\"clientProfiles\":null,\"clientPolicies\":null}"
+  },
+  {
+    "time": 1708369355894,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"id\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"realm\":\"acme-demo\",\"displayName\":\"Acme Demo\",\"displayNameHtml\":\"Acme Demo\",\"notBefore\":0,\"defaultSignatureAlgorithm\":\"RS256\",\"revokeRefreshToken\":false,\"refreshTokenMaxReuse\":0,\"accessTokenLifespan\":300,\"accessTokenLifespanForImplicitFlow\":900,\"ssoSessionIdleTimeout\":1800,\"ssoSessionMaxLifespan\":36000,\"ssoSessionIdleTimeoutRememberMe\":0,\"ssoSessionMaxLifespanRememberMe\":0,\"offlineSessionIdleTimeout\":2592000,\"offlineSessionMaxLifespanEnabled\":false,\"offlineSessionMaxLifespan\":5184000,\"clientSessionIdleTimeout\":0,\"clientSessionMaxLifespan\":0,\"clientOfflineSessionIdleTimeout\":0,\"clientOfflineSessionMaxLifespan\":0,\"accessCodeLifespan\":60,\"accessCodeLifespanUserAction\":300,\"accessCodeLifespanLogin\":1800,\"actionTokenGeneratedByAdminLifespan\":43200,\"actionTokenGeneratedByUserLifespan\":300,\"oauth2DeviceCodeLifespan\":600,\"oauth2DevicePollingInterval\":5,\"enabled\":true,\"sslRequired\":\"external\",\"registrationAllowed\":false,\"registrationEmailAsUsername\":false,\"rememberMe\":false,\"verifyEmail\":false,\"loginWithEmailAllowed\":true,\"duplicateEmailsAllowed\":false,\"resetPasswordAllowed\":true,\"editUsernameAllowed\":false,\"bruteForceProtected\":false,\"permanentLockout\":false,\"maxFailureWaitSeconds\":900,\"minimumQuickLoginWaitSeconds\":60,\"waitIncrementSeconds\":60,\"quickLoginCheckMilliSeconds\":1000,\"maxDeltaTimeSeconds\":43200,\"failureFactor\":30,\"defaultRole\":{\"id\":\"4decc226-d0d9-4cc9-88e3-2bb6c9b5be77\",\"name\":\"default-roles-acme-demo\",\"description\":\"${role_default-roles}\",\"composite\":true,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"},\"requiredCredentials\":[\"password\"],\"otpPolicyType\":\"totp\",\"otpPolicyAlgorithm\":\"HmacSHA1\",\"otpPolicyInitialCounter\":0,\"otpPolicyDigits\":6,\"otpPolicyLookAheadWindow\":1,\"otpPolicyPeriod\":30,\"otpPolicyCodeReusable\":false,\"otpSupportedApplications\":[\"totpAppFreeOTPName\",\"totpAppGoogleName\",\"totpAppMicrosoftAuthenticatorName\"],\"webAuthnPolicyRpEntityName\":\"keycloak\",\"webAuthnPolicySignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyRpId\":\"\",\"webAuthnPolicyAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyRequireResidentKey\":\"not specified\",\"webAuthnPolicyUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyCreateTimeout\":0,\"webAuthnPolicyAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyAcceptableAaguids\":[],\"webAuthnPolicyExtraOrigins\":[],\"webAuthnPolicyPasswordlessRpEntityName\":\"keycloak\",\"webAuthnPolicyPasswordlessSignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyPasswordlessRpId\":\"\",\"webAuthnPolicyPasswordlessAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyPasswordlessAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyPasswordlessRequireResidentKey\":\"not specified\",\"webAuthnPolicyPasswordlessUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyPasswordlessCreateTimeout\":0,\"webAuthnPolicyPasswordlessAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyPasswordlessAcceptableAaguids\":[],\"webAuthnPolicyPasswordlessExtraOrigins\":[],\"browserSecurityHeaders\":{\"contentSecurityPolicyReportOnly\":\"\",\"xContentTypeOptions\":\"nosniff\",\"referrerPolicy\":\"no-referrer\",\"xRobotsTag\":\"none\",\"xFrameOptions\":\"SAMEORIGIN\",\"contentSecurityPolicy\":\"frame-src 'self'; frame-ancestors 'self'; object-src 'none';\",\"xXSSProtection\":\"1; mode=block\",\"strictTransportSecurity\":\"max-age=31536000; includeSubDomains\"},\"smtpServer\":{\"replyToDisplayName\":\"Acme Employee Support\",\"port\":\"1025\",\"host\":\"mail\",\"replyTo\":\"no-reply@acme.test\",\"from\":\"acme-internal-sso@acme.test\",\"fromDisplayName\":\"Acme Employee Account\"},\"eventsEnabled\":true,\"eventsExpiration\":0,\"eventsListeners\":[\"openfga-events-publisher\",\"jboss-logging\"],\"enabledEventTypes\":[],\"adminEventsEnabled\":true,\"adminEventsDetailsEnabled\":true,\"identityProviders\":[],\"identityProviderMappers\":[],\"internationalizationEnabled\":false,\"supportedLocales\":[],\"browserFlow\":\"browser\",\"registrationFlow\":\"registration\",\"directGrantFlow\":\"direct grant\",\"resetCredentialsFlow\":\"reset credentials\",\"clientAuthenticationFlow\":\"clients\",\"dockerAuthenticationFlow\":\"docker auth\",\"attributes\":{\"cibaBackchannelTokenDeliveryMode\":\"poll\",\"cibaAuthRequestedUserHint\":\"login_hint\",\"oauth2DevicePollingInterval\":\"5\",\"clientOfflineSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.import-checksum-default\":\"b339318922ec768059239e8ba31a9051fea4584e7973650e981615d72d252634\",\"clientSessionIdleTimeout\":\"0\",\"clientOfflineSessionIdleTimeout\":\"0\",\"de.adorsys.keycloak.config.state-default-roles-realm-0\":\"[\\\"acme-user\\\",\\\"acme-user-support\\\",\\\"acme-tester\\\",\\\"acme-admin\\\"]\",\"cibaInterval\":\"5\",\"realmReusableOtpCode\":\"false\",\"cibaExpiresIn\":\"120\",\"oauth2DeviceCodeLifespan\":\"600\",\"parRequestUriLifespan\":\"60\",\"clientSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.state-default-clients-0\":\"[\\\"acme-standard-client\\\",\\\"acme-public-client-1\\\",\\\"acme-implicit-client\\\",\\\"acme-direct-access-client\\\",\\\"acme-service-client\\\",\\\"acme-device-client\\\"]\"},\"userManagedAccessAllowed\":false,\"clientProfiles\":{\"profiles\":[]},\"clientPolicies\":{\"policies\":[]}}"
+  },
+  {
+    "time": 1708369355845,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"id\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"realm\":\"acme-demo\",\"displayName\":\"Acme Demo\",\"displayNameHtml\":\"Acme Demo\",\"notBefore\":0,\"defaultSignatureAlgorithm\":\"RS256\",\"revokeRefreshToken\":false,\"refreshTokenMaxReuse\":0,\"accessTokenLifespan\":300,\"accessTokenLifespanForImplicitFlow\":900,\"ssoSessionIdleTimeout\":1800,\"ssoSessionMaxLifespan\":36000,\"ssoSessionIdleTimeoutRememberMe\":0,\"ssoSessionMaxLifespanRememberMe\":0,\"offlineSessionIdleTimeout\":2592000,\"offlineSessionMaxLifespanEnabled\":false,\"offlineSessionMaxLifespan\":5184000,\"clientSessionIdleTimeout\":0,\"clientSessionMaxLifespan\":0,\"clientOfflineSessionIdleTimeout\":0,\"clientOfflineSessionMaxLifespan\":0,\"accessCodeLifespan\":60,\"accessCodeLifespanUserAction\":300,\"accessCodeLifespanLogin\":1800,\"actionTokenGeneratedByAdminLifespan\":43200,\"actionTokenGeneratedByUserLifespan\":300,\"oauth2DeviceCodeLifespan\":600,\"oauth2DevicePollingInterval\":5,\"enabled\":true,\"sslRequired\":\"external\",\"registrationAllowed\":false,\"registrationEmailAsUsername\":false,\"rememberMe\":false,\"verifyEmail\":false,\"loginWithEmailAllowed\":true,\"duplicateEmailsAllowed\":false,\"resetPasswordAllowed\":true,\"editUsernameAllowed\":false,\"bruteForceProtected\":false,\"permanentLockout\":false,\"maxFailureWaitSeconds\":900,\"minimumQuickLoginWaitSeconds\":60,\"waitIncrementSeconds\":60,\"quickLoginCheckMilliSeconds\":1000,\"maxDeltaTimeSeconds\":43200,\"failureFactor\":30,\"defaultRole\":{\"id\":\"4decc226-d0d9-4cc9-88e3-2bb6c9b5be77\",\"name\":\"default-roles-acme-demo\",\"description\":\"${role_default-roles}\",\"composite\":true,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"},\"requiredCredentials\":[\"password\"],\"otpPolicyType\":\"totp\",\"otpPolicyAlgorithm\":\"HmacSHA1\",\"otpPolicyInitialCounter\":0,\"otpPolicyDigits\":6,\"otpPolicyLookAheadWindow\":1,\"otpPolicyPeriod\":30,\"otpPolicyCodeReusable\":false,\"otpSupportedApplications\":[\"totpAppFreeOTPName\",\"totpAppGoogleName\",\"totpAppMicrosoftAuthenticatorName\"],\"webAuthnPolicyRpEntityName\":\"keycloak\",\"webAuthnPolicySignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyRpId\":\"\",\"webAuthnPolicyAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyRequireResidentKey\":\"not specified\",\"webAuthnPolicyUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyCreateTimeout\":0,\"webAuthnPolicyAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyAcceptableAaguids\":[],\"webAuthnPolicyExtraOrigins\":[],\"webAuthnPolicyPasswordlessRpEntityName\":\"keycloak\",\"webAuthnPolicyPasswordlessSignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyPasswordlessRpId\":\"\",\"webAuthnPolicyPasswordlessAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyPasswordlessAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyPasswordlessRequireResidentKey\":\"not specified\",\"webAuthnPolicyPasswordlessUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyPasswordlessCreateTimeout\":0,\"webAuthnPolicyPasswordlessAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyPasswordlessAcceptableAaguids\":[],\"webAuthnPolicyPasswordlessExtraOrigins\":[],\"browserSecurityHeaders\":{\"contentSecurityPolicyReportOnly\":\"\",\"xContentTypeOptions\":\"nosniff\",\"referrerPolicy\":\"no-referrer\",\"xRobotsTag\":\"none\",\"xFrameOptions\":\"SAMEORIGIN\",\"contentSecurityPolicy\":\"frame-src 'self'; frame-ancestors 'self'; object-src 'none';\",\"xXSSProtection\":\"1; mode=block\",\"strictTransportSecurity\":\"max-age=31536000; includeSubDomains\"},\"smtpServer\":{\"replyToDisplayName\":\"Acme Employee Support\",\"port\":\"1025\",\"host\":\"mail\",\"replyTo\":\"no-reply@acme.test\",\"from\":\"acme-internal-sso@acme.test\",\"fromDisplayName\":\"Acme Employee Account\"},\"eventsEnabled\":true,\"eventsExpiration\":0,\"eventsListeners\":[\"openfga-events-publisher\",\"jboss-logging\"],\"enabledEventTypes\":[],\"adminEventsEnabled\":true,\"adminEventsDetailsEnabled\":true,\"identityProviders\":[],\"identityProviderMappers\":[],\"internationalizationEnabled\":false,\"supportedLocales\":[],\"browserFlow\":\"browser\",\"registrationFlow\":\"registration\",\"directGrantFlow\":\"direct grant\",\"resetCredentialsFlow\":\"reset credentials\",\"clientAuthenticationFlow\":\"clients\",\"dockerAuthenticationFlow\":\"docker auth\",\"attributes\":{\"cibaBackchannelTokenDeliveryMode\":\"poll\",\"cibaAuthRequestedUserHint\":\"login_hint\",\"oauth2DevicePollingInterval\":\"5\",\"clientOfflineSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.import-checksum-default\":\"cab6d6d732fd2605231cac604189e23c3e8b5f22c6eb450c5a5a706bd9b26b8d\",\"clientSessionIdleTimeout\":\"0\",\"clientOfflineSessionIdleTimeout\":\"0\",\"cibaInterval\":\"5\",\"realmReusableOtpCode\":\"false\",\"cibaExpiresIn\":\"120\",\"oauth2DeviceCodeLifespan\":\"600\",\"parRequestUriLifespan\":\"60\",\"clientSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.state-default-clients-0\":\"[\\\"acme-standard-client\\\",\\\"acme-public-client-1\\\",\\\"acme-implicit-client\\\",\\\"acme-direct-access-client\\\",\\\"acme-service-client\\\",\\\"acme-device-client\\\"]\",\"de.adorsys.keycloak.config.state-default-roles-realm-0\":\"[\\\"acme-user\\\",\\\"acme-user-support\\\",\\\"acme-tester\\\",\\\"acme-admin\\\"]\"},\"userManagedAccessAllowed\":false,\"clientProfiles\":{\"profiles\":[]},\"clientPolicies\":{\"policies\":[]}}"
+  },
+  {
+    "time": 1708369355681,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "GROUP",
+    "resourcePath": "groups/7ea15965-b788-486f-b5ac-09d02c1f1484/children",
+    "representation": "{\"id\":\"b665b4d6-add7-4e3e-b0a5-59cbfe78cf0b\",\"name\":\"acme-subregion2\",\"path\":\"/acme-region1/acme-subregion2\",\"subGroups\":[]}"
+  },
+  {
+    "time": 1708369355650,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "GROUP",
+    "resourcePath": "groups/7ea15965-b788-486f-b5ac-09d02c1f1484/children",
+    "representation": "{\"id\":\"4d140d5d-15b1-4f04-bb53-c3914e53bc16\",\"name\":\"acme-subregion1\",\"path\":\"/acme-region1/acme-subregion1\",\"subGroups\":[]}"
+  },
+  {
+    "time": 1708369355620,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "GROUP",
+    "resourcePath": "groups/7ea15965-b788-486f-b5ac-09d02c1f1484",
+    "representation": "{\"id\":\"7ea15965-b788-486f-b5ac-09d02c1f1484\",\"name\":\"acme-region1\",\"path\":\"/acme-region1\",\"subGroups\":[{\"name\":\"acme-subregion1\",\"path\":\"/acme-region1/acme-subregion1\",\"subGroups\":[]},{\"name\":\"acme-subregion2\",\"path\":\"/acme-region1/acme-subregion2\",\"subGroups\":[]}]}"
+  },
+  {
+    "time": 1708369355603,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "REALM_ROLE_MAPPING",
+    "resourcePath": "groups/abe16639-8d1d-47ac-bea7-b4e27c533f50/role-mappings/realm",
+    "representation": "[{\"id\":\"47a465e8-cdd9-4563-b206-76b70596c068\",\"name\":\"acme-user-support\",\"description\":\"Acme User Support Role\",\"composite\":false,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"attributes\":{}}]"
+  },
+  {
+    "time": 1708369355564,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "GROUP",
+    "resourcePath": "groups/abe16639-8d1d-47ac-bea7-b4e27c533f50",
+    "representation": "{\"id\":\"abe16639-8d1d-47ac-bea7-b4e27c533f50\",\"name\":\"acme-user-support\",\"path\":\"/acme-user-support\",\"subGroups\":[],\"realmRoles\":[\"acme-user-support\"]}"
+  },
+  {
+    "time": 1708369355548,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "REALM_ROLE_MAPPING",
+    "resourcePath": "groups/b1b93baf-e0ff-4bba-a489-433c20132e4b/role-mappings/realm",
+    "representation": "[{\"id\":\"96e2f6ac-8273-404e-bd27-ec6bfc781b68\",\"name\":\"acme-user\",\"description\":\"Acme User Role\",\"composite\":false,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"attributes\":{}}]"
+  },
+  {
+    "time": 1708369355496,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "GROUP",
+    "resourcePath": "groups/b1b93baf-e0ff-4bba-a489-433c20132e4b",
+    "representation": "{\"id\":\"b1b93baf-e0ff-4bba-a489-433c20132e4b\",\"name\":\"acme-user\",\"path\":\"/acme-user\",\"subGroups\":[],\"realmRoles\":[\"acme-user\"]}"
+  },
+  {
+    "time": 1708369355349,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "REALM_ROLE",
+    "resourcePath": "roles/acme-tester/composites",
+    "representation": "[{\"id\":\"47a465e8-cdd9-4563-b206-76b70596c068\",\"name\":\"acme-user-support\",\"description\":\"Acme User Support Role\",\"composite\":false,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"attributes\":{}},{\"id\":\"96e2f6ac-8273-404e-bd27-ec6bfc781b68\",\"name\":\"acme-user\",\"description\":\"Acme User Role\",\"composite\":false,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"attributes\":{}}]"
+  },
+  {
+    "time": 1708369355304,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "DELETE",
+    "resourceType": "REALM_ROLE",
+    "resourcePath": "roles/acme-tester/composites",
+    "representation": "[]"
+  },
+  {
+    "time": 1708369355272,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "REALM_ROLE",
+    "resourcePath": "roles/acme-admin",
+    "representation": "{\"id\":\"d66f1a8e-37b0-451a-987d-3ce0ab552c2e\",\"name\":\"acme-admin\",\"description\":\"Acme Admin Role\",\"scopeParamRequired\":false,\"composite\":false}"
+  },
+  {
+    "time": 1708369355256,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "REALM_ROLE",
+    "resourcePath": "roles/acme-tester",
+    "representation": "{\"id\":\"466a3173-a2e4-4d77-a3dc-1398b92a203f\",\"name\":\"acme-tester\",\"description\":\"Acme Tester Role\",\"scopeParamRequired\":false,\"composite\":true}"
+  },
+  {
+    "time": 1708369355240,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "REALM_ROLE",
+    "resourcePath": "roles/acme-user-support",
+    "representation": "{\"id\":\"47a465e8-cdd9-4563-b206-76b70596c068\",\"name\":\"acme-user-support\",\"description\":\"Acme User Support Role\",\"scopeParamRequired\":false,\"composite\":false}"
+  },
+  {
+    "time": 1708369355221,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "REALM_ROLE",
+    "resourcePath": "roles/acme-user",
+    "representation": "{\"id\":\"96e2f6ac-8273-404e-bd27-ec6bfc781b68\",\"name\":\"acme-user\",\"description\":\"Acme User Role\",\"scopeParamRequired\":false,\"composite\":false}"
+  },
+  {
+    "time": 1708369355123,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"realm\":\"acme-demo\",\"eventsEnabled\":true,\"eventsExpiration\":0,\"clientProfiles\":null,\"clientPolicies\":null}"
+  },
+  {
+    "time": 1708369342114,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"id\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"realm\":\"acme-demo\",\"displayName\":\"Acme Demo\",\"displayNameHtml\":\"Acme Demo\",\"notBefore\":0,\"defaultSignatureAlgorithm\":\"RS256\",\"revokeRefreshToken\":false,\"refreshTokenMaxReuse\":0,\"accessTokenLifespan\":300,\"accessTokenLifespanForImplicitFlow\":900,\"ssoSessionIdleTimeout\":1800,\"ssoSessionMaxLifespan\":36000,\"ssoSessionIdleTimeoutRememberMe\":0,\"ssoSessionMaxLifespanRememberMe\":0,\"offlineSessionIdleTimeout\":2592000,\"offlineSessionMaxLifespanEnabled\":false,\"offlineSessionMaxLifespan\":5184000,\"clientSessionIdleTimeout\":0,\"clientSessionMaxLifespan\":0,\"clientOfflineSessionIdleTimeout\":0,\"clientOfflineSessionMaxLifespan\":0,\"accessCodeLifespan\":60,\"accessCodeLifespanUserAction\":300,\"accessCodeLifespanLogin\":1800,\"actionTokenGeneratedByAdminLifespan\":43200,\"actionTokenGeneratedByUserLifespan\":300,\"oauth2DeviceCodeLifespan\":600,\"oauth2DevicePollingInterval\":5,\"enabled\":true,\"sslRequired\":\"external\",\"registrationAllowed\":false,\"registrationEmailAsUsername\":false,\"rememberMe\":false,\"verifyEmail\":false,\"loginWithEmailAllowed\":true,\"duplicateEmailsAllowed\":false,\"resetPasswordAllowed\":true,\"editUsernameAllowed\":false,\"bruteForceProtected\":false,\"permanentLockout\":false,\"maxFailureWaitSeconds\":900,\"minimumQuickLoginWaitSeconds\":60,\"waitIncrementSeconds\":60,\"quickLoginCheckMilliSeconds\":1000,\"maxDeltaTimeSeconds\":43200,\"failureFactor\":30,\"defaultRole\":{\"id\":\"4decc226-d0d9-4cc9-88e3-2bb6c9b5be77\",\"name\":\"default-roles-acme-demo\",\"description\":\"${role_default-roles}\",\"composite\":true,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"},\"requiredCredentials\":[\"password\"],\"otpPolicyType\":\"totp\",\"otpPolicyAlgorithm\":\"HmacSHA1\",\"otpPolicyInitialCounter\":0,\"otpPolicyDigits\":6,\"otpPolicyLookAheadWindow\":1,\"otpPolicyPeriod\":30,\"otpPolicyCodeReusable\":false,\"otpSupportedApplications\":[\"totpAppFreeOTPName\",\"totpAppGoogleName\",\"totpAppMicrosoftAuthenticatorName\"],\"webAuthnPolicyRpEntityName\":\"keycloak\",\"webAuthnPolicySignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyRpId\":\"\",\"webAuthnPolicyAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyRequireResidentKey\":\"not specified\",\"webAuthnPolicyUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyCreateTimeout\":0,\"webAuthnPolicyAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyAcceptableAaguids\":[],\"webAuthnPolicyExtraOrigins\":[],\"webAuthnPolicyPasswordlessRpEntityName\":\"keycloak\",\"webAuthnPolicyPasswordlessSignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyPasswordlessRpId\":\"\",\"webAuthnPolicyPasswordlessAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyPasswordlessAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyPasswordlessRequireResidentKey\":\"not specified\",\"webAuthnPolicyPasswordlessUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyPasswordlessCreateTimeout\":0,\"webAuthnPolicyPasswordlessAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyPasswordlessAcceptableAaguids\":[],\"webAuthnPolicyPasswordlessExtraOrigins\":[],\"browserSecurityHeaders\":{\"contentSecurityPolicyReportOnly\":\"\",\"xContentTypeOptions\":\"nosniff\",\"referrerPolicy\":\"no-referrer\",\"xRobotsTag\":\"none\",\"xFrameOptions\":\"SAMEORIGIN\",\"contentSecurityPolicy\":\"frame-src 'self'; frame-ancestors 'self'; object-src 'none';\",\"xXSSProtection\":\"1; mode=block\",\"strictTransportSecurity\":\"max-age=31536000; includeSubDomains\"},\"smtpServer\":{\"replyToDisplayName\":\"Acme Employee Support\",\"port\":\"1025\",\"host\":\"mail\",\"replyTo\":\"no-reply@acme.test\",\"from\":\"acme-internal-sso@acme.test\",\"fromDisplayName\":\"Acme Employee Account\"},\"eventsEnabled\":true,\"eventsExpiration\":10368000,\"eventsListeners\":[\"openfga-events-publisher\",\"jboss-logging\"],\"enabledEventTypes\":[],\"adminEventsEnabled\":true,\"adminEventsDetailsEnabled\":true,\"identityProviders\":[],\"identityProviderMappers\":[],\"internationalizationEnabled\":false,\"supportedLocales\":[],\"browserFlow\":\"browser\",\"registrationFlow\":\"registration\",\"directGrantFlow\":\"direct grant\",\"resetCredentialsFlow\":\"reset credentials\",\"clientAuthenticationFlow\":\"clients\",\"dockerAuthenticationFlow\":\"docker auth\",\"attributes\":{\"cibaBackchannelTokenDeliveryMode\":\"poll\",\"cibaAuthRequestedUserHint\":\"login_hint\",\"oauth2DevicePollingInterval\":\"5\",\"clientOfflineSessionMaxLifespan\":\"0\",\"clientSessionIdleTimeout\":\"0\",\"clientOfflineSessionIdleTimeout\":\"0\",\"cibaInterval\":\"5\",\"realmReusableOtpCode\":\"false\",\"cibaExpiresIn\":\"120\",\"oauth2DeviceCodeLifespan\":\"600\",\"parRequestUriLifespan\":\"60\",\"clientSessionMaxLifespan\":\"0\",\"de.adorsys.keycloak.config.state-default-clients-0\":\"[\\\"acme-standard-client\\\",\\\"acme-public-client-1\\\",\\\"acme-implicit-client\\\",\\\"acme-direct-access-client\\\",\\\"acme-service-client\\\",\\\"acme-device-client\\\"]\",\"de.adorsys.keycloak.config.import-checksum-default\":\"cab6d6d732fd2605231cac604189e23c3e8b5f22c6eb450c5a5a706bd9b26b8d\"},\"userManagedAccessAllowed\":false,\"clientProfiles\":{\"profiles\":[]},\"clientPolicies\":{\"policies\":[]}}"
+  },
+  {
+    "time": 1708369342050,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "REALM",
+    "representation": "{\"id\":\"7f1fe128-a0cc-448d-a203-e281deee525e\",\"realm\":\"acme-demo\",\"displayName\":\"Acme Demo\",\"displayNameHtml\":\"Acme Demo\",\"notBefore\":0,\"defaultSignatureAlgorithm\":\"RS256\",\"revokeRefreshToken\":false,\"refreshTokenMaxReuse\":0,\"accessTokenLifespan\":300,\"accessTokenLifespanForImplicitFlow\":900,\"ssoSessionIdleTimeout\":1800,\"ssoSessionMaxLifespan\":36000,\"ssoSessionIdleTimeoutRememberMe\":0,\"ssoSessionMaxLifespanRememberMe\":0,\"offlineSessionIdleTimeout\":2592000,\"offlineSessionMaxLifespanEnabled\":false,\"offlineSessionMaxLifespan\":5184000,\"clientSessionIdleTimeout\":0,\"clientSessionMaxLifespan\":0,\"clientOfflineSessionIdleTimeout\":0,\"clientOfflineSessionMaxLifespan\":0,\"accessCodeLifespan\":60,\"accessCodeLifespanUserAction\":300,\"accessCodeLifespanLogin\":1800,\"actionTokenGeneratedByAdminLifespan\":43200,\"actionTokenGeneratedByUserLifespan\":300,\"oauth2DeviceCodeLifespan\":600,\"oauth2DevicePollingInterval\":5,\"enabled\":true,\"sslRequired\":\"external\",\"registrationAllowed\":false,\"registrationEmailAsUsername\":false,\"rememberMe\":false,\"verifyEmail\":false,\"loginWithEmailAllowed\":true,\"duplicateEmailsAllowed\":false,\"resetPasswordAllowed\":true,\"editUsernameAllowed\":false,\"bruteForceProtected\":false,\"permanentLockout\":false,\"maxFailureWaitSeconds\":900,\"minimumQuickLoginWaitSeconds\":60,\"waitIncrementSeconds\":60,\"quickLoginCheckMilliSeconds\":1000,\"maxDeltaTimeSeconds\":43200,\"failureFactor\":30,\"defaultRole\":{\"id\":\"4decc226-d0d9-4cc9-88e3-2bb6c9b5be77\",\"name\":\"default-roles-acme-demo\",\"description\":\"${role_default-roles}\",\"composite\":true,\"clientRole\":false,\"containerId\":\"7f1fe128-a0cc-448d-a203-e281deee525e\"},\"requiredCredentials\":[\"password\"],\"otpPolicyType\":\"totp\",\"otpPolicyAlgorithm\":\"HmacSHA1\",\"otpPolicyInitialCounter\":0,\"otpPolicyDigits\":6,\"otpPolicyLookAheadWindow\":1,\"otpPolicyPeriod\":30,\"otpPolicyCodeReusable\":false,\"otpSupportedApplications\":[\"totpAppFreeOTPName\",\"totpAppGoogleName\",\"totpAppMicrosoftAuthenticatorName\"],\"webAuthnPolicyRpEntityName\":\"keycloak\",\"webAuthnPolicySignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyRpId\":\"\",\"webAuthnPolicyAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyRequireResidentKey\":\"not specified\",\"webAuthnPolicyUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyCreateTimeout\":0,\"webAuthnPolicyAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyAcceptableAaguids\":[],\"webAuthnPolicyExtraOrigins\":[],\"webAuthnPolicyPasswordlessRpEntityName\":\"keycloak\",\"webAuthnPolicyPasswordlessSignatureAlgorithms\":[\"ES256\"],\"webAuthnPolicyPasswordlessRpId\":\"\",\"webAuthnPolicyPasswordlessAttestationConveyancePreference\":\"not specified\",\"webAuthnPolicyPasswordlessAuthenticatorAttachment\":\"not specified\",\"webAuthnPolicyPasswordlessRequireResidentKey\":\"not specified\",\"webAuthnPolicyPasswordlessUserVerificationRequirement\":\"not specified\",\"webAuthnPolicyPasswordlessCreateTimeout\":0,\"webAuthnPolicyPasswordlessAvoidSameAuthenticatorRegister\":false,\"webAuthnPolicyPasswordlessAcceptableAaguids\":[],\"webAuthnPolicyPasswordlessExtraOrigins\":[],\"browserSecurityHeaders\":{\"contentSecurityPolicyReportOnly\":\"\",\"xContentTypeOptions\":\"nosniff\",\"referrerPolicy\":\"no-referrer\",\"xRobotsTag\":\"none\",\"xFrameOptions\":\"SAMEORIGIN\",\"contentSecurityPolicy\":\"frame-src 'self'; frame-ancestors 'self'; object-src 'none';\",\"xXSSProtection\":\"1; mode=block\",\"strictTransportSecurity\":\"max-age=31536000; includeSubDomains\"},\"smtpServer\":{\"replyToDisplayName\":\"Acme Employee Support\",\"port\":\"1025\",\"host\":\"mail\",\"replyTo\":\"no-reply@acme.test\",\"from\":\"acme-internal-sso@acme.test\",\"fromDisplayName\":\"Acme Employee Account\"},\"eventsEnabled\":true,\"eventsExpiration\":10368000,\"eventsListeners\":[\"openfga-events-publisher\",\"jboss-logging\"],\"enabledEventTypes\":[],\"adminEventsEnabled\":true,\"adminEventsDetailsEnabled\":true,\"identityProviders\":[],\"identityProviderMappers\":[],\"internationalizationEnabled\":false,\"supportedLocales\":[],\"browserFlow\":\"browser\",\"registrationFlow\":\"registration\",\"directGrantFlow\":\"direct grant\",\"resetCredentialsFlow\":\"reset credentials\",\"clientAuthenticationFlow\":\"clients\",\"dockerAuthenticationFlow\":\"docker auth\",\"attributes\":{\"cibaBackchannelTokenDeliveryMode\":\"poll\",\"cibaExpiresIn\":\"120\",\"cibaAuthRequestedUserHint\":\"login_hint\",\"oauth2DeviceCodeLifespan\":\"600\",\"oauth2DevicePollingInterval\":\"5\",\"parRequestUriLifespan\":\"60\",\"cibaInterval\":\"5\",\"realmReusableOtpCode\":\"false\",\"de.adorsys.keycloak.config.state-default-clients-0\":\"[\\\"acme-standard-client\\\",\\\"acme-public-client-1\\\",\\\"acme-implicit-client\\\",\\\"acme-direct-access-client\\\",\\\"acme-service-client\\\",\\\"acme-device-client\\\"]\"},\"userManagedAccessAllowed\":false,\"clientProfiles\":{\"profiles\":[]},\"clientPolicies\":{\"policies\":[]}}"
+  },
+  {
+    "time": 1708369341895,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-device-client",
+    "representation": "{\"id\":\"acme-device-client\",\"clientId\":\"acme-device-client\",\"name\":\"Client with Device Flow Grant\",\"description\":\"Device Flow Grant Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"redirectUris\":[],\"webOrigins\":[],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":false,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"authorizationServicesEnabled\":false,\"publicClient\":true,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"oauth2.device.authorization.grant.enabled\":\"true\",\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\",\"use.refresh.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369341863,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-service-client-1",
+    "representation": "{\"id\":\"acme-service-client-1\",\"clientId\":\"acme-service-client\",\"name\":\"Standard Client with Client Credentials Grant\",\"description\":\"Service Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"secret\":\"acme-service-client-1-secret\",\"redirectUris\":[],\"webOrigins\":[],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":false,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":true,\"publicClient\":false,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"protocolMappers\":[{\"id\":\"3f8361ef-d2db-4658-8018-bcf15e5629fe\",\"name\":\"Client Host\",\"protocol\":\"openid-connect\",\"protocolMapper\":\"oidc-usersessionmodel-note-mapper\",\"consentRequired\":false,\"config\":{\"user.session.note\":\"clientHost\",\"introspection.token.claim\":\"true\",\"id.token.claim\":\"true\",\"access.token.claim\":\"true\",\"claim.name\":\"clientHost\",\"jsonType.label\":\"String\"}},{\"id\":\"ae9fc48f-77ee-49e7-af3e-fc456b1496fe\",\"name\":\"Client ID\",\"protocol\":\"openid-connect\",\"protocolMapper\":\"oidc-usersessionmodel-note-mapper\",\"consentRequired\":false,\"config\":{\"user.session.note\":\"client_id\",\"introspection.token.claim\":\"true\",\"id.token.claim\":\"true\",\"access.token.claim\":\"true\",\"claim.name\":\"client_id\",\"jsonType.label\":\"String\"}},{\"id\":\"de4889b8-7c3d-429d-a7d9-3c717d1f2704\",\"name\":\"Client IP Address\",\"protocol\":\"openid-connect\",\"protocolMapper\":\"oidc-usersessionmodel-note-mapper\",\"consentRequired\":false,\"config\":{\"user.session.note\":\"clientAddress\",\"introspection.token.claim\":\"true\",\"id.token.claim\":\"true\",\"access.token.claim\":\"true\",\"claim.name\":\"clientAddress\",\"jsonType.label\":\"String\"}}],\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369341797,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-direct-access-client-1",
+    "representation": "{\"id\":\"acme-direct-access-client-1\",\"clientId\":\"acme-direct-access-client\",\"name\":\"Standard Client with ROPC Grant\",\"description\":\"Direct Access Grant Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"secret\":\"acme-direct-access-client-1-secret\",\"redirectUris\":[\"http://localhost/acme-direct-access-client-1/login*\",\"https://flowsimulator.pragmaticwebsecurity.com/*\"],\"webOrigins\":[\"https://flowsimulator.pragmaticwebsecurity.com\",\"http://localhost\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":false,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":true,\"serviceAccountsEnabled\":false,\"publicClient\":false,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369341753,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-implicit-client-1",
+    "representation": "{\"id\":\"acme-implicit-client-1\",\"clientId\":\"acme-implicit-client\",\"name\":\"Client with Implicit Grant\",\"description\":\"Implicit Client Description v2\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"redirectUris\":[\"http://localhost/acme-implcit-client/oauth/callback\"],\"webOrigins\":[\"http://localhost\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":true,\"implicitFlowEnabled\":true,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"authorizationServicesEnabled\":false,\"publicClient\":true,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369341690,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-public-client-1",
+    "representation": "{\"id\":\"acme-public-client-1\",\"clientId\":\"acme-public-client-1\",\"name\":\"Client with Standard Flow\",\"description\":\"Public Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"redirectUris\":[\"https://flowsimulator.pragmaticwebsecurity.com\",\"http://localhost/acme-public-client/login*\"],\"webOrigins\":[\"+\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":true,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"authorizationServicesEnabled\":false,\"publicClient\":true,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"post.logout.redirect.uris\":\"+\",\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369341645,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "UPDATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-standard-client-1",
+    "representation": "{\"id\":\"acme-standard-client-1\",\"clientId\":\"acme-standard-client\",\"name\":\"Client with Standard Flow\",\"description\":\"Standard Client Description\",\"surrogateAuthRequired\":false,\"enabled\":true,\"alwaysDisplayInConsole\":false,\"clientAuthenticatorType\":\"client-secret\",\"secret\":\"acme-standard-client-1-secret\",\"redirectUris\":[\"http://localhost/acme-standard-client/login*\",\"https://flowsimulator.pragmaticwebsecurity.com\"],\"webOrigins\":[\"+\"],\"notBefore\":0,\"bearerOnly\":false,\"consentRequired\":false,\"standardFlowEnabled\":true,\"implicitFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"publicClient\":false,\"frontchannelLogout\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"post.logout.redirect.uris\":\"+\",\"backchannel.logout.session.required\":\"true\",\"backchannel.logout.revoke.offline.tokens\":\"false\"},\"authenticationFlowBindingOverrides\":{},\"fullScopeAllowed\":false,\"nodeReRegistrationTimeout\":-1,\"defaultClientScopes\":[\"web-origins\",\"acr\",\"profile\",\"roles\",\"email\"],\"optionalClientScopes\":[\"address\",\"phone\",\"offline_access\",\"microprofile-jwt\"],\"access\":{\"view\":true,\"configure\":true,\"manage\":true}}"
+  },
+  {
+    "time": 1708369341404,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-device-client",
+    "representation": "{\"id\":\"acme-device-client\",\"clientId\":\"acme-device-client\",\"name\":\"Client with Device Flow Grant\",\"description\":\"Device Flow Grant Description\",\"enabled\":true,\"redirectUris\":[],\"standardFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"publicClient\":true,\"protocol\":\"openid-connect\",\"attributes\":{\"use.refresh.tokens\":\"false\",\"oauth2.device.authorization.grant.enabled\":\"true\"},\"fullScopeAllowed\":false}"
+  },
+  {
+    "time": 1708369341372,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-service-client-1",
+    "representation": "{\"id\":\"acme-service-client-1\",\"clientId\":\"acme-service-client\",\"name\":\"Standard Client with Client Credentials Grant\",\"description\":\"Service Client Description\",\"enabled\":true,\"secret\":\"acme-service-client-1-secret\",\"standardFlowEnabled\":false,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":true,\"publicClient\":false,\"protocol\":\"openid-connect\",\"fullScopeAllowed\":false}"
+  },
+  {
+    "time": 1708369341312,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-direct-access-client-1",
+    "representation": "{\"id\":\"acme-direct-access-client-1\",\"clientId\":\"acme-direct-access-client\",\"name\":\"Standard Client with ROPC Grant\",\"description\":\"Direct Access Grant Client Description\",\"enabled\":true,\"secret\":\"acme-direct-access-client-1-secret\",\"redirectUris\":[\"http://localhost/acme-direct-access-client-1/login*\",\"https://flowsimulator.pragmaticwebsecurity.com/*\"],\"standardFlowEnabled\":false,\"directAccessGrantsEnabled\":true,\"serviceAccountsEnabled\":false,\"publicClient\":false,\"protocol\":\"openid-connect\",\"fullScopeAllowed\":false}"
+  },
+  {
+    "time": 1708369341282,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-implicit-client-1",
+    "representation": "{\"id\":\"acme-implicit-client-1\",\"clientId\":\"acme-implicit-client\",\"name\":\"Client with Implicit Grant\",\"description\":\"Implicit Client Description v2\",\"enabled\":true,\"redirectUris\":[\"http://localhost/acme-implcit-client/oauth/callback\"],\"standardFlowEnabled\":true,\"implicitFlowEnabled\":true,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"publicClient\":true,\"protocol\":\"openid-connect\",\"fullScopeAllowed\":false}"
+  },
+  {
+    "time": 1708369341252,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-public-client-1",
+    "representation": "{\"id\":\"acme-public-client-1\",\"clientId\":\"acme-public-client-1\",\"name\":\"Client with Standard Flow\",\"description\":\"Public Client Description\",\"enabled\":true,\"redirectUris\":[\"http://localhost/acme-public-client/login*\",\"https://flowsimulator.pragmaticwebsecurity.com\"],\"webOrigins\":[\"+\"],\"standardFlowEnabled\":true,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"publicClient\":true,\"protocol\":\"openid-connect\",\"attributes\":{\"post.logout.redirect.uris\":\"+\"},\"fullScopeAllowed\":false}"
+  },
+  {
+    "time": 1708369341206,
+    "realmId": "7f1fe128-a0cc-448d-a203-e281deee525e",
+    "authDetails": {
+      "realmId": "0b4cab21-7dee-4e1f-af0e-93cd4aa3036c",
+      "clientId": "549a4e21-f436-4a6f-b4a8-7b4c43c29905",
+      "userId": "9d54e571-e4e1-4c75-825b-9f9aea28de32",
+      "ipAddress": "172.18.0.6"
+    },
+    "operationType": "CREATE",
+    "resourceType": "CLIENT",
+    "resourcePath": "clients/acme-standard-client-1",
+    "representation": "{\"id\":\"acme-standard-client-1\",\"clientId\":\"acme-standard-client\",\"name\":\"Client with Standard Flow\",\"description\":\"Standard Client Description\",\"enabled\":true,\"secret\":\"acme-standard-client-1-secret\",\"redirectUris\":[\"http://localhost/acme-standard-client/login*\",\"https://flowsimulator.pragmaticwebsecurity.com\"],\"webOrigins\":[\"+\"],\"standardFlowEnabled\":true,\"directAccessGrantsEnabled\":false,\"serviceAccountsEnabled\":false,\"publicClient\":false,\"protocol\":\"openid-connect\",\"attributes\":{\"post.logout.redirect.uris\":\"+\"},\"fullScopeAllowed\":false}"
+  }
+]
