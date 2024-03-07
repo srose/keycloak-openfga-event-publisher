@@ -24,7 +24,7 @@ public class DeleteRealmRoleRemoveCompositeCollectionTupleResolver extends Abstr
 
     @Override
     public Stream<ClientTupleKey> resolve(KeycloakAdapter keycloakAdapter, OpenFgaClient openFgaClient) {
-        return existing_role_composite_role_for_roleName(openFgaClient, this.roleName);
+        return existing_role_composite_role(openFgaClient, this.roleName);
     }
 
 }

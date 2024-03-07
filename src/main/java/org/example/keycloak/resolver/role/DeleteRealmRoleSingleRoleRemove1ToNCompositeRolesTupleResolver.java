@@ -52,6 +52,6 @@ public class DeleteRealmRoleSingleRoleRemove1ToNCompositeRolesTupleResolver exte
             return Stream.empty();
         }
 
-        return compositeRoleNames.stream().map(compositeRoleName -> role_composite_role(compositeRoleName, roleName));
+        return compositeRoleNames.stream().map(compositeRoleName -> role_composite_role(roleName, compositeRoleName));
     }
 }

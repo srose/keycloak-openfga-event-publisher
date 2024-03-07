@@ -44,6 +44,6 @@ public class CreateRealmRoleNewRoleCollectionAsCompositeForOtherRoleTupleResolve
 
     @Override
     public Stream<ClientTupleKey> resolve(KeycloakAdapter keycloakAdapter, OpenFgaClient openFgaClient) {
-        return compositeRoleNames.stream().map(compositeRoleName -> role_composite_role(compositeRoleName, this.roleName));
+        return compositeRoleNames.stream().map(compositeRoleName -> role_composite_role(this.roleName, compositeRoleName));
     }
 }

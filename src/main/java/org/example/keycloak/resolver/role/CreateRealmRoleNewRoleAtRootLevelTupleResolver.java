@@ -15,6 +15,8 @@ import java.util.stream.Stream;
 
 public class CreateRealmRoleNewRoleAtRootLevelTupleResolver extends AbstractTupleResolver implements TupleResolver {
 
+    public static final String REGEX = "roles/(.*)(?<!/composites)$";
+
     private final String realmId;
     private final String roleName;
     private final String roleId;

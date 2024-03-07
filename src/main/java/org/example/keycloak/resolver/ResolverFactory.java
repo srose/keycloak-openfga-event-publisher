@@ -73,9 +73,9 @@ public class ResolverFactory {
             Map<String, Map<Pattern, BiFunction<AdminEvent, Matcher, TupleResolver>>> realmRoleOperationTypePatternCommandFunctionMap = new HashMap<>();
 
             Map<Pattern, BiFunction<AdminEvent, Matcher, TupleResolver>> realmRoleCreatePatternCommandFunctionMap = new HashMap<>();
-            realmRoleCreatePatternCommandFunctionMap.put(Pattern.compile("roles/(.*)(?<!/composites)$"), CreateRealmRoleNewRoleAtRootLevelTupleResolver::new); // compiled regex derived from resourcePath of create_realm_role__new_role_at_root_level.json
+            realmRoleCreatePatternCommandFunctionMap.put(Pattern.compile(CreateRealmRoleNewRoleAtRootLevelTupleResolver.REGEX), CreateRealmRoleNewRoleAtRootLevelTupleResolver::new); // compiled regex derived from resourcePath of create_realm_role__new_role_at_root_level.json
             realmRoleCreatePatternCommandFunctionMap.put(Pattern.compile(CreateRealmRoleNewRoleCollectionAsCompositeForOtherRoleTupleResolver.REGEX), CreateRealmRoleNewRoleCollectionAsCompositeForOtherRoleTupleResolver::new); // compiled regex derived from resourcePath of create_realm_role__new_role_collection_as_composite_for_other_role.json
-            realmRoleCreatePatternCommandFunctionMap.put(Pattern.compile("roles-by-id/(.*)/composites"), CreateRealmRoleSingleRoleAdd1ToNRolesAsCompositeTupleResolver::new); // compiled regex derived from resourcePath of create_realm_role__single_role_add_1_to_n_roles_as_composite.json
+            realmRoleCreatePatternCommandFunctionMap.put(Pattern.compile(CreateRealmRoleSingleRoleAdd1ToNRolesAsCompositeTupleResolver.REGEX), CreateRealmRoleSingleRoleAdd1ToNRolesAsCompositeTupleResolver::new); // compiled regex derived from resourcePath of create_realm_role__single_role_add_1_to_n_roles_as_composite.json
             realmRoleOperationTypePatternCommandFunctionMap.put(ADMIN_EVENT_OPERATION_TYPE_CREATE, realmRoleCreatePatternCommandFunctionMap);
 
             Map<Pattern, BiFunction<AdminEvent, Matcher, TupleResolver>> realmRoleDeletePatternCommandFunctionMap = new HashMap<>();

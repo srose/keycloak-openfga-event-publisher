@@ -103,11 +103,11 @@ public abstract class AbstractTupleResolver implements TupleResolver {
         return retrieve_tuples_with_objectId(openFgaClient, USER_TYPE_GROUP, OBJECT_TYPE_ROLE, roleName);
     }
 
-    protected ClientTupleKey role_composite_role(String compositeRoleName, String roleName) {
+    protected ClientTupleKey role_composite_role(String roleName, String compositeRoleName) {
         return new ClientTupleKey()
-                .user(USER_TYPE_ROLE + ":" + compositeRoleName)
+                .user(USER_TYPE_ROLE + ":" + roleName)
                 .relation(getRelationType(USER_TYPE_ROLE + OBJECT_TYPE_ROLE))
-                ._object(OBJECT_TYPE_ROLE + ":" + roleName);
+                ._object(OBJECT_TYPE_ROLE + ":" + compositeRoleName);
     }
 
     protected Stream<ClientTupleKey> existing_role_composite_role(OpenFgaClient openFgaClient, String compositeRoleName) {

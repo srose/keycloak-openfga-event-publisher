@@ -51,6 +51,6 @@ public class CreateRealmRoleSingleRoleAdd1ToNRolesAsCompositeTupleResolver exten
             return Stream.empty();
         }
 
-        return compositeRoleNames.stream().map(compositeRoleName -> role_composite_role(compositeRoleName, roleName));
+        return compositeRoleNames.stream().map(compositeRoleName -> role_composite_role(roleName, compositeRoleName));
     }
 }
